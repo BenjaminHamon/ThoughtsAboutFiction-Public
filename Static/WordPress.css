@@ -1,0 +1,168 @@
+/* Header */
+
+.site-header
+{
+	display: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+/* Navigation */
+
+#site-navigation
+{
+	background-color: #222222;
+}
+
+#primary-menu
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: 0 auto;
+	max-width: 700px;
+	padding: 0;
+	text-align: center;
+}
+
+#primary-menu > .menu-item
+{
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0;
+	width: 200px;
+}
+
+#primary-menu > .menu-item > a
+{
+	color: #ffffff;
+	opacity: 1;
+}
+
+#primary-menu > .menu-item > a:hover, #primary-menu > .menu-item > a:focus
+{
+	color: #6e8fc5;
+}
+
+#primary-menu > .current-menu-item, #primary-menu > .current-menu-item:focus, #primary-menu > .current-menu-item:hover
+{
+	background-color: #6e8fc5;
+}
+
+#primary-menu > .current-menu-item > a, #primary-menu > .current-menu-item > a:focus, #primary-menu > .current-menu-item > a:hover
+{
+	color: #ffffff;
+}
+
+.post-navigation
+{
+	margin: 0;
+	padding: 0;
+}
+
+.post-navigation .nav-links a
+{
+	color: #555555;
+}
+
+
+/* Content */
+
+#content-wrapper
+{
+	margin: 0 auto;
+	padding: 0;
+}
+
+main
+{
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+}
+
+article.page, article.post, .site-main > .hentry:nth-child(n+2)
+{
+	background-color: #fff;
+	box-shadow: 0 0 5px #cccccc;
+	display: flex;
+	flex-direction: column;
+	margin: 10px;
+	padding: 20px;
+}
+
+.entry-title, .entry-content, .entry-footer, .entry-meta
+{
+	margin: 10px;
+}
+
+.wf-active .entry-title
+{
+	font-size: 40px;
+}
+
+.entry-title > a:hover
+{
+	color: #6e8fc5;
+}
+
+.entry-content .wp-block-jetpack-markdown a
+{
+	color: #0074D9;
+	text-decoration: none;
+}
+
+.entry-content .wp-block-jetpack-markdown a:hover
+{
+	text-decoration: underline;
+}
+
+.entry-content .warning
+{
+	background-color: #feefb3;
+	color: #9f6000;
+	margin: 0 -10px 10px -10px;
+	padding: 10px 20px;
+}
+
+.entry-content h1
+{
+	font-size: 30px;
+	margin: 50px 0 20px 0;
+}
+
+.entry-content p:empty
+{
+	display: none;
+}
+
+.entry-meta
+{
+	color: #555555;
+}
+
+.entry-meta a
+{
+	color: #555555;
+	text-decoration: none;
+}
+
+.entry-meta a:hover
+{
+	color: #555555;
+	text-decoration: underline;
+}
+
+
+/* Footer */
+
+.site-footer
+{
+	padding: 10px;
+}
+
+.site-info
+{
+	padding: 0;
+}
