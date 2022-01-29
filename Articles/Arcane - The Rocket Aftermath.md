@@ -25,7 +25,7 @@ The very last thing that happens in Arcane season 1 is Jinx's rocket plowing int
 
 Here I will delve into theories about what we can guess for the immediate aftermath of the rocket, as well as rating their likelihood, with considerations for both logical events and interesting stories. The goal is to speculate about where the plot, the setting and the characters may all go from there.
 
-This topic is loosely related to a previous one: [The Arms Race](https://benjaminhamon.wordpress.com/2022/01/17/arcane-the-arms-race/). Thanks to /u/PirateAttenborough, who highlighted in the comments how we actually get details about the launcher and the rocket in the final scenes, and how we can do comparisons to previous explosions to speculate on its power. That obviously won't prevent me from doing wild speculation, but it offers good evidence.
+This topic is loosely related to a previous one: [The Arms Race](/posts/arcane-the-arms-race). Thanks to /u/PirateAttenborough, who highlighted in the comments how we actually get details about the launcher and the rocket in the final scenes, and how we can do comparisons to previous explosions to speculate on its power. That obviously won't prevent me from doing wild speculation, but it offers good evidence.
 
 
 # What we have
