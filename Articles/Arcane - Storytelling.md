@@ -6,7 +6,7 @@
 - Tags: Arcane, Storytelling
 
 - Excerpt: |
-    <p><em>Full spoilers for Arcane season 1.</em></p>
+    <p class="warning">Full spoilers for Arcane season 1.</p>
     <p>A few points about the storytelling in Arcane, and its pacing.</p>
 
 ---

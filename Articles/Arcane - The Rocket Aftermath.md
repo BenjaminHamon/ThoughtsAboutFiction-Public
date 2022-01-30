@@ -6,7 +6,7 @@
 - Tags: Arcane, Speculation
 
 - Excerpt: |
-    <p><em>Full spoilers for Arcane season 1.</em></p>
+    <p class="warning">Full spoilers for Arcane season 1.</p>
     <p>Speculation about the Arcane season 1 ending and its pending resolution.</p>
 
 ---

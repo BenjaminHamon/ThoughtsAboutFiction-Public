@@ -6,7 +6,7 @@
 - Tags: Arcane, Characters, Jinx, Powder
 
 - Excerpt: |
-    <p><em>Full spoilers for Arcane season 1.</em></p>
+    <p class="warning">Full spoilers for Arcane season 1.</p>
     <p>In-depth analysis for the characters Powder and Jinx from Arcane.</p>
 
 ---

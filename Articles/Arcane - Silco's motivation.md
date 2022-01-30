@@ -6,7 +6,7 @@
 - Tags: Arcane, Characters, Silco
 
 - Excerpt: |
-    <p><em>Full spoilers for Arcane season 1.</em></p>
+    <p class="warning">Full spoilers for Arcane season 1.</p>
     <p>Analyzing Silco's character and trying to pinpoint what he is trying to accomplish.</p>
 
 ---

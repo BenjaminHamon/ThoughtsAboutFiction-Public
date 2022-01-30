@@ -6,7 +6,7 @@
 - Tags: Arcane, Themes
 
 - Excerpt: |
-    <p><em>Full spoilers for Arcane season 1.</em></p>
+    <p class="warning">Full spoilers for Arcane season 1.</p>
     <p>Defining the concept of the arms race in Arcane, and listing evidence for it.</p>
 
 ---
