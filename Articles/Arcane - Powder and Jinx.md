@@ -1,19 +1,22 @@
 ---
 
-- Release: WordPress
-- Title: Arcane | Powder and Jinx
-- Categories: Arcane, Thoughts about fiction
-- Tags: Arcane, Characters, Jinx, Powder
+Identifier: 8e4626b5-6958-4905-b20d-484832b87cf9
+Title: Arcane - Powder and Jinx
 
-- Excerpt: |
-    <p class="warning">Full spoilers for Arcane season 1.</p>
-    <p>In-depth analysis for the characters Powder and Jinx from Arcane.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Characters
+- Media::Arcane
+- Media::Arcane::Jinx
+- Media::Arcane::Powder
+
+Warnings:
+- Full spoilers for Arcane season 1.
+
+Excerpt: |
+  In-depth analysis for the characters Powder and Jinx from Arcane.
 
 ---
-
-***Full spoilers for Arcane season 1.***
-
-*This was originally posted on Reddit /r/arcane on 4 December 2021.*
 
 
 # Introduction

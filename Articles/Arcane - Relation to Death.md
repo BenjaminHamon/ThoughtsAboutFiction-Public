@@ -1,24 +1,28 @@
 ---
 
-- Release: WordPress
-- Title: Arcane | Relation to Death
-- Categories: Arcane, Thoughts about fiction
-- Tags: Arcane, Themes
+Identifier: 63f729e1-27fe-473f-8a31-a6b962c78710
+Title: Arcane - Relation to Death
 
-- Excerpt: |
-    <p class="warning">Full spoilers for Arcane season 1.</p>
-    <p>Analyzing how suicide and death are portrayed in Arcane. Part 2.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Themes
+- Media::Arcane
+
+Warnings:
+- Full spoilers for Arcane season 1.
+
+Excerpt: |
+  Analyzing how suicide and death are portrayed in Arcane. Part 2.
 
 ---
 
-***Full spoilers for Arcane season 1.***
 
 *Hello everyone, here is more writing about Arcane. Today, delving again into death to follow up on the previous article. I'm not quite satisfied with this one, and wish to move on to the next topics. Rather than shelving it, probably forever, I'm posting it as is because why not. Thus it may come off as disjointed points and unfinished thoughts, and not particularly well structured. Also, sorry I use the exact word death over and over. Enjoy and please share your thoughts.*
 
 
 # Introduction
 
-This article follows up on my previous one, [the Portrayal of Suicide](/posts/arcane-the-portrayal-of-suicide). Reading it before or after is not necessary but I won't repeat what I already covered in it.
+This article follows up on my previous one, [the Portrayal of Suicide](/article/Arcane_-_The_Portrayal_of_Suicide). Reading it before or after is not necessary but I won't repeat what I already covered in it.
 
 The other post got some decent discussion, thanks! Two major points that were raised are that Jinx did not hold back against Ekko, and that Viktor was really not considering suicide when disarming the grenade. While reconsidering my article again, I wondered why I focused pretty hard on the suicide angle. Obviously it was the chosen topic and it is present in Arcane, however death is a more general idea which is omnipresent in the story. I prefer to focus on subtleties, and suicide felt like another perspective on Jinx. Anyway, I'm not throwing away what I told before, I'm putting another layer on top by focusing on death in a wider way, because I felt I shoved that on the side immediately and perhaps did the discussion a disservice.
 

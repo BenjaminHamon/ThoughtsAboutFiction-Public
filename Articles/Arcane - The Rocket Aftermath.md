@@ -1,19 +1,20 @@
 ---
 
-- Release: WordPress
-- Title: Arcane | The Rocket Aftermath
-- Categories: Arcane, Thoughts about fiction
-- Tags: Arcane, Speculation
+Identifier: 6ba59df7-3f98-4ed4-9004-52e4148aa66e
+Title: Arcane - The Rocket Aftermath
 
-- Excerpt: |
-    <p class="warning">Full spoilers for Arcane season 1.</p>
-    <p>Speculation about the Arcane season 1 ending and its pending resolution.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Speculation
+- Media::Arcane
+
+Warnings:
+- Full spoilers for Arcane season 1.
+
+Excerpt: |
+  Speculation about the Arcane season 1 ending and its pending resolution.
 
 ---
-
-***Full spoilers for Arcane season 1.***
-
-*This was originally posted on Reddit /r/arcane on 4 January 2022.*
 
 
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, it will be shorter and less in-depth, as it's some wild speculation about how the show resumes and resolves the pending aftermath of its ending. Enjoy reading and please share your thoughts afterward. Cheers.*
@@ -25,7 +26,7 @@ The very last thing that happens in Arcane season 1 is Jinx's rocket plowing int
 
 Here I will delve into theories about what we can guess for the immediate aftermath of the rocket, as well as rating their likelihood, with considerations for both logical events and interesting stories. The goal is to speculate about where the plot, the setting and the characters may all go from there.
 
-This topic is loosely related to a previous one: [The Arms Race](/posts/arcane-the-arms-race). Thanks to /u/PirateAttenborough, who highlighted in the comments how we actually get details about the launcher and the rocket in the final scenes, and how we can do comparisons to previous explosions to speculate on its power. That obviously won't prevent me from doing wild speculation, but it offers good evidence.
+This topic is loosely related to a previous one: [The Arms Race](/article/Arcane_-_The_Arms_Race). Thanks to /u/PirateAttenborough, who highlighted in the comments how we actually get details about the launcher and the rocket in the final scenes, and how we can do comparisons to previous explosions to speculate on its power. That obviously won't prevent me from doing wild speculation, but it offers good evidence.
 
 
 # What we have

@@ -1,17 +1,22 @@
 ---
 
-- Release: WordPress
-- Title: Wheel of Time | Min
-- Categories: Wheel of Time, Thoughts about fiction
-- Tags: Wheel of Time, Characters, Min
+Identifier: 1017ac53-81ed-4867-a6a8-b85a1e0cc9fc
+Title: Wheel of Time - Min
 
-- Excerpt: |
-    <p class="warning">Full spoilers for the Wheel of Time, the show up to season 1 and all books.</p>
-    <p>Analysis for the character Min in early Wheel of Time.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Characters
+- Media::WheelOfTime
+- Media::WheelOfTime::Min
+
+Warnings:
+- Full spoilers for the Wheel of Time, the show up to season 1 and all books.
+
+Excerpt: |
+  Analysis for the character Min in early Wheel of Time.
 
 ---
 
-***Full spoilers for the Wheel of Time, the show up to season 1 and all books.***
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm writing some general thoughts about early Min from the Wheel of Time. This is all subjective, interpretation and lengthy discussion that may go beyond the explicit scope of the source material. Enjoy reading and please share your thoughts afterward. Cheers.*
 

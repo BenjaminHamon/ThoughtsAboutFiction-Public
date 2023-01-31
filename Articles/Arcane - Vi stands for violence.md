@@ -1,17 +1,22 @@
 ---
 
-- Release: WordPress
-- Title: Arcane | Vi stands for violence
-- Categories: Arcane, Thoughts about fiction
-- Tags: Arcane, Characters, Vi
+Identifier: 3e0135e4-7bc1-4fb1-9f72-fe61d4243ece
+Title: Arcane - Vi stands for violence
 
-- Excerpt: |
-    <p class="warning">Full spoilers for Arcane season 1.</p>
-    <p>Analyzing Vi from Arcane, particularly in regard to violence.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Characters
+- Media::Arcane
+- Media::Arcane::Vi
+
+Warnings:
+- Full spoilers for Arcane season 1.
+
+Excerpt: |
+  Analyzing Vi from Arcane, particularly in regard to violence.
 
 ---
 
-***Full spoilers for Arcane season 1.***
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. Everything here is subjective, interpretation and lengthy discussion that may go beyond the explicit scope of the source material. Enjoy reading and please share your thoughts afterward. Cheers.*
 
@@ -22,7 +27,7 @@
 
 It's been a while since I wrote about Arcane, but there is still much to talk about. I already wrote at length about Jinx, and consequently evoked Vi several times, without going too deep in describing her. I really want to focus on Vi as her own character beside Jinx, another traumatized kid and a violent adult, the result to a cruel world and a mess of circumstances. I will look mostly into her dealing with and dispensing violence, which is a major aspect to Vi as a character, perhaps even overwhelmingly so, as well as how her violence affects those around her.
 
-There are other themes and notions in Arcane that are very relevant with Vi: family, trust, choice, consequences, among others. Beyond what is here, I invite you to look at my older article about [Powder and Jinx](/posts/arcane-powder-and-jinx), which notably talks about how Vi was of major importance to Powder, and what their sister bond meant.
+There are other themes and notions in Arcane that are very relevant with Vi: family, trust, choice, consequences, among others. Beyond what is here, I invite you to look at my older article about [Powder and Jinx](/article/Arcane_-_Powder_and_Jinx), which notably talks about how Vi was of major importance to Powder, and what their sister bond meant.
 
 
 # Strength

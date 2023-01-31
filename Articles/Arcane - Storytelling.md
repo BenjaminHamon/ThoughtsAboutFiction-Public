@@ -1,19 +1,20 @@
 ---
 
-- Release: WordPress
-- Title: Arcane | Storytelling
-- Categories: Arcane, Thoughts about fiction
-- Tags: Arcane, Storytelling
+Identifier: 113148e9-1079-4c3d-b677-0c19adfde2a4
+Title: Arcane - Storytelling
 
-- Excerpt: |
-    <p class="warning">Full spoilers for Arcane season 1.</p>
-    <p>A few points about the storytelling in Arcane, and its pacing.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Storytelling
+- Media::Arcane
+
+Warnings:
+- Full spoilers for Arcane season 1.
+
+Excerpt: |
+  A few points about the storytelling in Arcane, and its pacing.
 
 ---
-
-***Full spoilers for Arcane season 1.***
-
-*This was originally posted on Reddit /r/arcane on 15 December 2021.*
 
 
 I was trying to write about Arcane's pacing (perhaps a cursed word in commentary), but it ended up going all over the place, being more about storytelling in general and feeling simply wrong to an extent. So instead, I thought I would list the points I had in a less formal way. Hopefully, I can get people's feelings about those and spark a discussion or two.

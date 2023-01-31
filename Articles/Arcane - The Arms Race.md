@@ -1,19 +1,20 @@
 ---
 
-- Release: WordPress
-- Title: Arcane | The Arms Race
-- Categories: Arcane, Thoughts about fiction
-- Tags: Arcane, Themes
+Identifier: 376fbcec-153e-4d71-9240-3321eef78ddd
+Title: Arcane - The Arms Race
 
-- Excerpt: |
-    <p class="warning">Full spoilers for Arcane season 1.</p>
-    <p>Defining the concept of the arms race in Arcane, and listing evidence for it.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Themes
+- Media::Arcane
+
+Warnings:
+- Full spoilers for Arcane season 1.
+
+Excerpt: |
+  Defining the concept of the arms race in Arcane, and listing evidence for it.
 
 ---
-
-***Full spoilers for Arcane season 1.***
-
-*This was originally posted on Reddit /r/arcane on 28 December 2021.*
 
 
 # Introduction

@@ -1,17 +1,23 @@
 ---
 
-- Release: WordPress
-- Title: Wheel of Time | Who is Alanna
-- Categories: Wheel of Time, Thoughts about fiction
-- Tags: Wheel of Time, Characters, Speculation, Alanna
+Identifier: 3bda8eba-0b1e-4b92-8d9e-181d6d14cf3d
+Title: Wheel of Time - Who is Alanna
 
-- Excerpt: |
-    <p class="warning">Full spoilers for the Wheel of Time, the show up to season 1 and all books.</p>
-    <p>Analysis and speculation about Alanna, who her character is and will be, using knowledge from the books.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Characters
+- Topics::Fiction::Speculation
+- Media::WheelOfTime
+- Media::WheelOfTime::Alanna
+
+Warnings:
+- Full spoilers for the Wheel of Time, the show up to season 1 and all books.
+
+Excerpt: |
+  Analysis and speculation about Alanna, who her character is and will be, using knowledge from the books.
 
 ---
 
-***Full spoilers for the Wheel of Time, the show up to season 1 and all books.***
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm looking into how Alanna is portrayed in the Wheel of Time show, to see if she is being foreshadowed to be a villain. It's one point in a list of "crazy theories" but this particular one seemed to warrant a full post rather than a quick thought. I try to keep this kind of disclaimer short to avoid boring you, in this instance it's probably important to clarify that this is all subjective, interpretation and often lengthy discussion beyond the explicit scope of whatever fiction I am exploring. Enjoy reading and please share your thoughts afterward. Cheers.*
 

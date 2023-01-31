@@ -1,19 +1,20 @@
 ---
 
-- Release: WordPress
-- Title: Arcane | The Portrayal of Suicide
-- Categories: Arcane, Thoughts about fiction
-- Tags: Arcane, Themes
+Identifier: db8d8a91-7ede-45ed-9637-ce5f7972c92c
+Title: Arcane - The Portrayal of Suicide
 
-- Excerpt: |
-    <p class="warning">Full spoilers for Arcane season 1.</p>
-    <p>Analyzing how suicide and death are portrayed in Arcane.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Themes
+- Media::Arcane
+
+Warnings:
+- Full spoilers for Arcane season 1.
+
+Excerpt: |
+  Analyzing how suicide and death are portrayed in Arcane.
 
 ---
-
-***Full spoilers for Arcane season 1.***
-
-*This was originally posted on Reddit /r/arcane on 23 January 2022.*
 
 
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, back to really in-depth posts as we will be exploring the idea of suicide and how it is portrayed in Arcane. It's obviously a tough subject, but I believe it must be talked about and understood. So here goes. Enjoy reading and please share your thoughts afterward. Cheers.*
@@ -104,7 +105,7 @@ In episode 6, as Jinx is about to light her flare, she walks up to a ledge with 
 
 So Jinx... How is Jinx?
 
-You might want to know I already wrote a very long article on [Powder and Jinx](/posts/arcane-powder-and-jinx). It turns out, even with a single season and a single character, I can write without end, even if I repeat myself a decent amount.
+You might want to know I already wrote a very long article on [Powder and Jinx](/article/Arcane_-_Powder_and_Jinx). It turns out, even with a single season and a single character, I can write without end, even if I repeat myself a decent amount.
 
 The reason I am focusing on Jinx is that I believe that if Arcane is going to portray suicide, then we just have to talk about her. Jinx is heavily traumatized, has no regard for violence and harm, and is mentally unstable. Note that I don't describe her as explicitly ill or crazy, even if her state is enough to have her hallucinating, to avoid hazarding a medical diagnosis or using derogatory terms lightly. One thing we can say is that she is unwell and is struggling, with herself, with people around her and with the world. In this situation, there is no way Jinx would not think about suicide and self destruction, in some capacity. From what we see, Jinx does not harm herself, but she does not care what happens to her, and when she is hurt she mends her wound herself and however she can, she even laughs madly as she finishes her stitches.
 

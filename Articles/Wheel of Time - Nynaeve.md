@@ -1,17 +1,22 @@
 ---
 
-- Release: WordPress
-- Title: Wheel of Time | Nynaeve
-- Categories: Wheel of Time, Thoughts about fiction
-- Tags: Wheel of Time, Characters, Nynaeve
+Identifier: 224aa652-84a0-427c-bced-af591de2ed3c
+Title: Wheel of Time - Nynaeve
 
-- Excerpt: |
-    <p class="warning">Full spoilers for the Wheel of Time, the show up to season 1 and all books.</p>
-    <p>Analysis for the character Nynaeve in early Wheel of Time.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Characters
+- Media::WheelOfTime
+- Media::WheelOfTime::Nynaeve
+
+Warnings:
+- Full spoilers for the Wheel of Time, the show up to season 1 and all books.
+
+Excerpt: |
+  Analysis for the character Nynaeve in early Wheel of Time.
 
 ---
 
-***Full spoilers for the Wheel of Time, the show up to season 1 and all books.***
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm looking into Nynaeve, primarily from how she appears early in the Wheel of Time, with the show's first season and the Eye of the World book. This is all subjective, interpretation and often lengthy discussion beyond the explicit scope of whatever fiction I am exploring. Enjoy reading and please share your thoughts afterward. Cheers.*
 
@@ -20,7 +25,7 @@
 
 *Context for the article, feel free to skip to the next section.*
 
-After a reread of the Eye of the World (see my [article](/posts/wheel-of-time-a-reread-of-the-eye-of-the-world) on that) and a full rewatch of the show, I am ready to start writing a bunch about the Wheel of Time. The choice for the next topic landed on Nynaeve, a little by chance, a little because I did not talk about her in the EotW article, and finally a lot because I loved her in the show, where she is expertly portrayed by Zoë Robins. Just so you know, the next three articles are likely to be about Min (I'm only half joking).
+After a reread of the Eye of the World (see my [article](/article/Wheel_of_Time_-_A_reread_of_the_Eye_of_the_World) on that) and a full rewatch of the show, I am ready to start writing a bunch about the Wheel of Time. The choice for the next topic landed on Nynaeve, a little by chance, a little because I did not talk about her in the EotW article, and finally a lot because I loved her in the show, where she is expertly portrayed by Zoë Robins. Just so you know, the next three articles are likely to be about Min (I'm only half joking).
 
 I want to stress every time that this is primarily streams of thoughts, opinions and personal interpretations. In particular, I don't wish this to be seen as strictly a review or an argument, even if I obviously make statements and turns of phrase that can lean in that direction. As always, I would love any kind of feedback and discussion, whether to agree or to disagree or to go further. Please keep it respectful and constructive.
 

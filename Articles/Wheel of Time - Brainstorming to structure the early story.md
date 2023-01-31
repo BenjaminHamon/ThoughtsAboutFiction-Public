@@ -1,17 +1,21 @@
 ---
 
-- Release: WordPress
-- Title: Wheel of Time | Brainstorming to structure the early story
-- Categories: Wheel of Time, Thoughts about fiction
-- Tags: Wheel of Time, Storytelling
+Identifier: d42da6cb-73a2-4836-80c9-656a6c7e5fb6
+Title: Wheel of Time - Brainstorming to structure the early story
 
-- Excerpt: |
-    <p class="warning">Full spoilers for the Wheel of Time, the books and the show.</p>
-    <p>Attempting to elaborate a structure for the early part of the Wheel of Time.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Storytelling
+- Media::WheelOfTime
+
+Warnings:
+- Full spoilers for the Wheel of Time, the books and the show.
+
+Excerpt: |
+  Attempting to elaborate a structure for the early part of the Wheel of Time.
 
 ---
 
-***Full spoilers for the Wheel of Time, the books and the show.***
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm attempting to imagine and build a structure for the early part of the Wheel of Time, and to find the important ideas that should be introduced and developed to fill that structure. This is an exercise that will pertain to the Eye of the World and to the show's first season, but should be relevant for any fiction work with a sprawling imaginary universe. This is all subjective, interpretation and lengthy discussion that may go beyond the explicit scope of the source material. Enjoy reading and please share your thoughts afterward. Cheers.*
 

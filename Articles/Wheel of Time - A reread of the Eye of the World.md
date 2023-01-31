@@ -1,17 +1,20 @@
 ---
 
-- Release: WordPress
-- Title: Wheel of Time | A reread of the Eye of the World
-- Categories: Wheel of Time, Thoughts about fiction
-- Tags: Wheel of Time
+Identifier: 32e9a571-3ab5-4598-ad31-89add3f5c32e
+Title: Wheel of Time - A reread of the Eye of the World
 
-- Excerpt: |
-    <p class="warning">Spoilers for the Wheel of Time, for the first book the Eye of the World.</p>
-    <p>Thoughts from rereading the Eye of the World.</p>
+Tags:
+- Topics::Fiction
+- Media::WheelOfTime
+
+Warnings:
+- Spoilers for the Wheel of Time, for the first book the Eye of the World.
+
+Excerpt: |
+  Thoughts from rereading the Eye of the World.
 
 ---
 
-***Spoilers for the Wheel of Time, for the first book the Eye of the World.***
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This article goes over several points about the Eye of the World book, without a particular goal and without being a review. I mention it here and there, but all of this is subjective and my point of view. Enjoy reading and please share your thoughts afterward. Cheers.*
 

@@ -1,19 +1,21 @@
 ---
 
-- Release: WordPress
-- Title: Arcane | Silco's motivation
-- Categories: Arcane, Thoughts about fiction
-- Tags: Arcane, Characters, Silco
+Identifier: aa468fee-d93d-4b57-9bd4-9bfdfdc18db8
+Title: Arcane - Silco's motivation
 
-- Excerpt: |
-    <p class="warning">Full spoilers for Arcane season 1.</p>
-    <p>Analyzing Silco's character and trying to pinpoint what he is trying to accomplish.</p>
+Tags:
+- Topics::Fiction
+- Topics::Fiction::Characters
+- Media::Arcane
+- Media::Arcane::Silco
+
+Warnings:
+- Full spoilers for Arcane season 1.
+
+Excerpt: |
+  Analyzing Silco's character and trying to pinpoint what he is trying to accomplish.
 
 ---
-
-***Full spoilers for Arcane season 1.***
-
-*This was originally posted on Reddit /r/arcane on 12 January 2022.*
 
 
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, we will be analyzing Silco's character and trying to pinpoint what he was trying to accomplish. Enjoy reading and please share your thoughts afterward. Cheers.*
@@ -23,7 +25,7 @@
 
 Silco is one of the driving forces for the story and the conflicts within Piltover. He's portrayed as a villain and somewhat indirectly, as we don't get much of him just being, compared to the other main characters. I believe it's interesting to delve into what his objectives are and how he tried to accomplish them, his motivations and his behavior.
 
-This topic is loosely related to my previous posts: [The Arms Race](/posts/arcane-the-arms-race) and [The Rocket Aftermath](/posts/arcane-the-rocket-aftermath).
+This topic is loosely related to my previous posts: [The Arms Race](/article/Arcane_-_The_Arms_Race) and [The Rocket Aftermath](/article/Arcane_-_The_Rocket_Aftermath).
 
 We don't know much about Silco, who he was and who he is. What we learn about him is from his confrontation with Vander, from his interactions with people in the undercity, from how him being in power changed the undercity, from a few personal scenes and from how he raised Jinx.
 
