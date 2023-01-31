@@ -22,6 +22,7 @@ Aiel
 Aiels
 Ajah
 Al'Naito
+Alanna
 Alivia
 Aludra
 Amadacia
@@ -59,6 +60,7 @@ Dyelin
 Egeanin
 Egwene
 Elaida
+Elayne
 Elmindreda
 Elyas
 Emond
@@ -81,12 +83,14 @@ Ishamael
 Ituralde
 Kerene
 Lanfear
+Latra
 Leane
 Lews
 Liandrin
 Logain
 Logoth
 Loial
+Machin
 Maigan
 Malkier
 Manetheren
@@ -139,6 +143,7 @@ Tarwin
 Tear
 Tel'aran'rhiod
 Therin
+Thom
 Tigraine
 Trolloc
 Trollocs
@@ -146,6 +151,7 @@ Truthspeaker
 Tuatha'an
 Tuon
 Tylin
+Valda
 Valere
 Valon
 Verin

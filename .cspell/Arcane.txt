@@ -2,6 +2,7 @@ Bolbok
 Caitlyn
 Claggor
 Ekko
+Firelights
 Grayson
 Heimerdinger
 Hexcore
@@ -23,6 +24,7 @@ Sevika
 Shoola
 Silco
 Talis
+Vander
 Vi
 Viktor
 Zaun

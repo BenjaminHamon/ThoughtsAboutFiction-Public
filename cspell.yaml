@@ -1,0 +1,9 @@
+dictionaries:
+- Arcane
+- Wheel of Time
+
+dictionaryDefinitions:
+- name: "Arcane"
+  path: ".cspell/Arcane.txt"
+- name: "Wheel of Time"
+  path: ".cspell/Wheel of Time.txt"
