@@ -2,6 +2,7 @@
 
 Identifier: 376fbcec-153e-4d71-9240-3321eef78ddd
 Title: Arcane - The Arms Race
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -9,12 +10,15 @@ Tags:
 - Media::Arcane
 
 Warnings:
-- Full spoilers for Arcane season 1.
+- Spoilers::Arcane
 
 Excerpt: |
   Defining the concept of the arms race in Arcane, and listing evidence for it.
 
 ---
+
+
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 
 # Introduction

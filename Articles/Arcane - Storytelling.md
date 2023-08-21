@@ -2,6 +2,7 @@
 
 Identifier: 113148e9-1079-4c3d-b677-0c19adfde2a4
 Title: Arcane - Storytelling
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -9,12 +10,15 @@ Tags:
 - Media::Arcane
 
 Warnings:
-- Full spoilers for Arcane season 1.
+- Spoilers::Arcane
 
 Excerpt: |
   A few points about the storytelling in Arcane, and its pacing.
 
 ---
+
+
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 
 I was trying to write about Arcane's pacing (perhaps a cursed word in commentary), but it ended up going all over the place, being more about storytelling in general and feeling simply wrong to an extent. So instead, I thought I would list the points I had in a less formal way. Hopefully, I can get people's feelings about those and spark a discussion or two.

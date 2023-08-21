@@ -2,18 +2,22 @@
 
 Identifier: 5777d7ce-a54f-48eb-9ca0-99427d224d8e
 Title: Life Is Strange - You only wanted to be popular
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
 - Media::LifeIsStrange
 
 Warnings:
-- Spoilers for the original Life Is Strange game.
+- Spoilers::LifeIsStrange
 
 Excerpt: |
   Some thoughts about Life Is Strange commenting on the player's expected behavior.
 
 ---
+
+
+<p class="warning">Spoilers for the original Life Is Strange game.</p>
 
 
 # Context

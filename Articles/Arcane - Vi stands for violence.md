@@ -2,6 +2,7 @@
 
 Identifier: 3e0135e4-7bc1-4fb1-9f72-fe61d4243ece
 Title: Arcane - Vi stands for violence
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -10,12 +11,15 @@ Tags:
 - Media::Arcane::Vi
 
 Warnings:
-- Full spoilers for Arcane season 1.
+- Spoilers::Arcane
 
 Excerpt: |
   Analyzing Vi from Arcane, particularly in regard to violence.
 
 ---
+
+
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. Everything here is subjective, interpretation and lengthy discussion that may go beyond the explicit scope of the source material. Enjoy reading and please share your thoughts afterward. Cheers.*

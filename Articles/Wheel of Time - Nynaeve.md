@@ -2,6 +2,7 @@
 
 Identifier: 224aa652-84a0-427c-bced-af591de2ed3c
 Title: Wheel of Time - Nynaeve
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -10,12 +11,15 @@ Tags:
 - Media::WheelOfTime::Nynaeve
 
 Warnings:
-- Full spoilers for the Wheel of Time, the show up to season 1 and all books.
+- Spoilers::WheelOfTime
 
 Excerpt: |
   Analysis for the character Nynaeve in early Wheel of Time.
 
 ---
+
+
+<p class="warning">Full spoilers for the Wheel of Time, the show up to season 1 and all books.</p>
 
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm looking into Nynaeve, primarily from how she appears early in the Wheel of Time, with the show's first season and the Eye of the World book. This is all subjective, interpretation and often lengthy discussion beyond the explicit scope of whatever fiction I am exploring. Enjoy reading and please share your thoughts afterward. Cheers.*

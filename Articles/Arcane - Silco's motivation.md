@@ -2,6 +2,7 @@
 
 Identifier: aa468fee-d93d-4b57-9bd4-9bfdfdc18db8
 Title: Arcane - Silco's motivation
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -10,12 +11,15 @@ Tags:
 - Media::Arcane::Silco
 
 Warnings:
-- Full spoilers for Arcane season 1.
+- Spoilers::Arcane
 
 Excerpt: |
   Analyzing Silco's character and trying to pinpoint what he is trying to accomplish.
 
 ---
+
+
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, we will be analyzing Silco's character and trying to pinpoint what he was trying to accomplish. Enjoy reading and please share your thoughts afterward. Cheers.*

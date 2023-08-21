@@ -2,6 +2,7 @@
 
 Identifier: 8e4626b5-6958-4905-b20d-484832b87cf9
 Title: Arcane - Powder and Jinx
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -11,12 +12,15 @@ Tags:
 - Media::Arcane::Powder
 
 Warnings:
-- Full spoilers for Arcane season 1.
+- Spoilers::Arcane
 
 Excerpt: |
   In-depth analysis for the characters Powder and Jinx from Arcane.
 
 ---
+
+
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 
 # Introduction

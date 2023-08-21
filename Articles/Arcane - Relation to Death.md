@@ -2,6 +2,7 @@
 
 Identifier: 63f729e1-27fe-473f-8a31-a6b962c78710
 Title: Arcane - Relation to Death
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -9,12 +10,15 @@ Tags:
 - Media::Arcane
 
 Warnings:
-- Full spoilers for Arcane season 1.
+- Spoilers::Arcane
 
 Excerpt: |
   Analyzing how suicide and death are portrayed in Arcane. Part 2.
 
 ---
+
+
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 
 *Hello everyone, here is more writing about Arcane. Today, delving again into death to follow up on the previous article. I'm not quite satisfied with this one, and wish to move on to the next topics. Rather than shelving it, probably forever, I'm posting it as is because why not. Thus it may come off as disjointed points and unfinished thoughts, and not particularly well structured. Also, sorry I use the exact word death over and over. Enjoy and please share your thoughts.*

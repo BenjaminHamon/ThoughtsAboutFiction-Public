@@ -2,6 +2,7 @@
 
 Identifier: 7b6c7eeb-fabb-45d2-be23-ffc80b5c092c
 Title: Don't Look Up
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -9,12 +10,15 @@ Tags:
 - Media::DontLookUp
 
 Warnings:
-- Spoilers for the movie Don't Look Up.
+- Spoilers::DontLookUp
 
 Excerpt: |
   Quick general thoughts and opinion.
 
 ---
+
+
+<p class="warning">Spoilers for the movie Don't Look Up.</p>
 
 
 *Hello, everyone. Here are some quick thoughts about the movie Don't Look Up. Compared to my usual wordy texts, these are quickly written and edited notes, so please bear with the lesser quality. This is all subjective, as always. Enjoy reading and please share your thoughts afterward. Cheers.*

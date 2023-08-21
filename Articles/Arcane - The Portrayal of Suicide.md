@@ -2,6 +2,7 @@
 
 Identifier: db8d8a91-7ede-45ed-9637-ce5f7972c92c
 Title: Arcane - The Portrayal of Suicide
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -9,12 +10,15 @@ Tags:
 - Media::Arcane
 
 Warnings:
-- Full spoilers for Arcane season 1.
+- Spoilers::Arcane
 
 Excerpt: |
   Analyzing how suicide and death are portrayed in Arcane.
 
 ---
+
+
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, back to really in-depth posts as we will be exploring the idea of suicide and how it is portrayed in Arcane. It's obviously a tough subject, but I believe it must be talked about and understood. So here goes. Enjoy reading and please share your thoughts afterward. Cheers.*

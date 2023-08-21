@@ -2,6 +2,7 @@
 
 Identifier: 6ba59df7-3f98-4ed4-9004-52e4148aa66e
 Title: Arcane - The Rocket Aftermath
+Author: Benjamin Hamon
 
 Tags:
 - Topics::Fiction
@@ -9,12 +10,15 @@ Tags:
 - Media::Arcane
 
 Warnings:
-- Full spoilers for Arcane season 1.
+- Spoilers::Arcane
 
 Excerpt: |
   Speculation about the Arcane season 1 ending and its pending resolution.
 
 ---
+
+
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, it will be shorter and less in-depth, as it's some wild speculation about how the show resumes and resolves the pending aftermath of its ending. Enjoy reading and please share your thoughts afterward. Cheers.*
