@@ -12,7 +12,7 @@ Tags:
 Warnings:
 - Spoilers::Arcane
 
-Excerpt: |
+Description: |
   Speculation about the Arcane season 1 ending and its pending resolution.
 
 ---

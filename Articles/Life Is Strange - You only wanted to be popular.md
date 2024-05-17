@@ -11,7 +11,7 @@ Tags:
 Warnings:
 - Spoilers::LifeIsStrange
 
-Excerpt: |
+Description: |
   Some thoughts about Life Is Strange commenting on the player's expected behavior.
 
 ---

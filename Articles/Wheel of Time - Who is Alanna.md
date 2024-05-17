@@ -14,7 +14,7 @@ Tags:
 Warnings:
 - Spoilers::WheelOfTime
 
-Excerpt: |
+Description: |
   Analysis and speculation about Alanna, who her character is and will be, using knowledge from the books.
 
 ---

@@ -12,7 +12,7 @@ Tags:
 Warnings:
 - Spoilers::Arcane
 
-Excerpt: |
+Description: |
   Defining the concept of the arms race in Arcane, and listing evidence for it.
 
 ---

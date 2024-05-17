@@ -12,7 +12,7 @@ Tags:
 Warnings:
 - Spoilers::DontLookUp
 
-Excerpt: |
+Description: |
   Quick general thoughts and opinion.
 
 ---

@@ -12,7 +12,7 @@ Tags:
 Warnings:
 - Spoilers::Arcane
 
-Excerpt: |
+Description: |
   Analyzing how suicide and death are portrayed in Arcane. Part 2.
 
 ---

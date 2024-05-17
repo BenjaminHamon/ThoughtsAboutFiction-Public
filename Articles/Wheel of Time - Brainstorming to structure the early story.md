@@ -12,7 +12,7 @@ Tags:
 Warnings:
 - Spoilers::WheelOfTime
 
-Excerpt: |
+Description: |
   Attempting to elaborate a structure for the early part of the Wheel of Time.
 
 ---

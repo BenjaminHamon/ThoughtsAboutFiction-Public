@@ -13,7 +13,7 @@ Tags:
 Warnings:
 - Spoilers::WheelOfTime
 
-Excerpt: |
+Description: |
   Analysis for the character Min in early Wheel of Time.
 
 ---

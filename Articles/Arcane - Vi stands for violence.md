@@ -13,7 +13,7 @@ Tags:
 Warnings:
 - Spoilers::Arcane
 
-Excerpt: |
+Description: |
   Analyzing Vi from Arcane, particularly in regard to violence.
 
 ---

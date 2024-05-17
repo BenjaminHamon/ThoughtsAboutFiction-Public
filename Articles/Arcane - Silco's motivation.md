@@ -13,7 +13,7 @@ Tags:
 Warnings:
 - Spoilers::Arcane
 
-Excerpt: |
+Description: |
   Analyzing Silco's character and trying to pinpoint what he is trying to accomplish.
 
 ---

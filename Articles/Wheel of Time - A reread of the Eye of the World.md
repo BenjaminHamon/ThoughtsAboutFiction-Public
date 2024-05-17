@@ -11,7 +11,7 @@ Tags:
 Warnings:
 - Spoilers::WheelOfTime
 
-Excerpt: |
+Description: |
   Thoughts from rereading the Eye of the World.
 
 ---

@@ -14,7 +14,7 @@ Tags:
 Warnings:
 - Spoilers::Arcane
 
-Excerpt: |
+Description: |
   In-depth analysis for the characters Powder and Jinx from Arcane.
 
 ---

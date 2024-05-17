@@ -12,7 +12,7 @@ Tags:
 Warnings:
 - Spoilers::Arcane
 
-Excerpt: |
+Description: |
   A few points about the storytelling in Arcane, and its pacing.
 
 ---
