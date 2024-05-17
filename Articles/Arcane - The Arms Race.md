@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries Arcane English
+# cspell:words Hamon
+
 Identifier: 376fbcec-153e-4d71-9240-3321eef78ddd
 Title: Arcane - The Arms Race
 Author: Benjamin Hamon
@@ -18,7 +21,9 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for Arcane season 1.</p>
+
 
 
 # Introduction
@@ -32,6 +37,7 @@ With the arms race, I am referring to the fast scientific progress, the strained
 I'm not making an argument here, especially not against scientific progress. If anything it would be against war and violence. Rather, I'm exploring the presence of the concept in Arcane, which is related to the sad fact that science gave us ever more terrible weapons. Please share your own feelings about if you noticed these things in the show and if you expect to see it, or similar ideas, developed in the next seasons.
 
 
+
 # Finding evidence in Arcane
 
 In Arcane, I started thinking about this when considering the aftermath of Jinx's rocket at the end of season 1, calling it a nuke as a shortcut. We don't have much as a scale of destructive power, except for what Jinx herself has done, and for Heimerdinger's memories of mages waging war. The rocket could be an incremental upgrade over Jinx's other explosives, or it could be much more powerful, from a conventional missile to a nuke.
@@ -43,6 +49,7 @@ In my opinion, Arcane covers and hints at a large range of themes. Here are seve
 The following sections are the various items I noticed in Arcane and the evidence for it.
 
 
+
 # Impending doom and war
 
 The arms race occurs in a climate of uncertainty and fear. Factions expect that their adversaries will want to crush them.
@@ -51,12 +58,14 @@ The arms race occurs in a climate of uncertainty and fear. Factions expect that 
 - It feels like a prelude to actual war, and displays characters and factions being either pacifists or warmongers.
 
 
+
 # Warnings about power, Arcane, blind science
 
 There are signs of danger, and some people will give warnings. More often then not, they are pushed to the side, as they prevent rushing forward fast enough.
 
 - The whole progress and responsibility issues, between Heimerdinger, Jayce, Viktor and Mel, even Grayson, Marcus and the rest of the Council.
 - [S1 E2, Jayce's trial] Heimerdinger: "I've seen this power in the wrong hands. It corrupts, consumes, lays waste to civilizations."
+
 
 
 # The folly of men
@@ -70,6 +79,7 @@ People play with powers bigger than themselves and barely know what they are doi
 - [S1 E9, Vi and Sevika fight] Vi and Sevika fight with their new cool weapons, which appear to be quite powerful, even causing a blackout. This one is probably more for rule of cool though, and Sevika should have been turned into dust at the end if they wanted to hammer a point home here.
 
 
+
 # The supposed necessity of weapons, as means of terror, or possibly of mutual assured destruction
 
 The argument that weapons are necessary as a mean to defend oneself, to protect your freedom, to dissuade others from fighting you.
@@ -77,6 +87,7 @@ The argument that weapons are necessary as a mean to defend oneself, to protect 
 - [S1 E3, Silco's speech to Vander] Silco: "I just need to scare them. The only way to defeat a superior enemy is to stop at nothing."
 - [S1 E7, Silco and Jinx arguing about Vi] Silco: "You have to complete the weapon."
 - [S1 E9, Mel and her mother argue] Mel's mother "If there is a chance Hextech can be weaponized, we must have it."
+
 
 
 # The inevitability of progress and of weapons being used, and the impossibility of undoing it
@@ -91,6 +102,7 @@ If something is created, it will be used in some way sooner or later. Weapons ar
 - [S1 E9, Jinx's rocket] Jinx fires what is essentially a long range missile at a civilian target in Piltover.
 
 
+
 # The means of annihilation
 
 Violence, war and creating weapons, even with good intentions and as defensive measures, will hurt and kill, perhaps you and everyone else as the same time.
@@ -100,6 +112,7 @@ Violence, war and creating weapons, even with good intentions and as defensive m
 - [S1 E8, Mel's mother arrival] Mel: "War isn't our first and every recourse. I sponsored Hextech to protect the city, not burn it to the ground."
 - [S1 E9, Mel and her mother argue] Mel: "Piltover isn't your testing ground."
 - [S1 E9, Jayce and Silco negotiating] Jayce: "Today, I got a glimpse of what war between us might look like. I'm trying to save you from annihilation."
+
 
 
 # Afterword

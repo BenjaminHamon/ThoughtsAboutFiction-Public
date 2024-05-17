@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries Arcane English
+# cspell:words Hamon
+
 Identifier: 6ba59df7-3f98-4ed4-9004-52e4148aa66e
 Title: Arcane - The Rocket Aftermath
 Author: Benjamin Hamon
@@ -18,10 +21,11 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for Arcane season 1.</p>
 
-
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, it will be shorter and less in-depth, as it's some wild speculation about how the show resumes and resolves the pending aftermath of its ending. Enjoy reading and please share your thoughts afterward. Cheers.*
+
 
 
 # Introduction
@@ -31,6 +35,7 @@ The very last thing that happens in Arcane season 1 is Jinx's rocket plowing int
 Here I will delve into theories about what we can guess for the immediate aftermath of the rocket, as well as rating their likelihood, with considerations for both logical events and interesting stories. The goal is to speculate about where the plot, the setting and the characters may all go from there.
 
 This topic is loosely related to a previous one: [The Arms Race](/article/Arcane_-_The_Arms_Race). Thanks to /u/PirateAttenborough, who highlighted in the comments how we actually get details about the launcher and the rocket in the final scenes, and how we can do comparisons to previous explosions to speculate on its power. That obviously won't prevent me from doing wild speculation, but it offers good evidence.
+
 
 
 # What we have
@@ -44,11 +49,13 @@ An instant before the rocket hits, we get a glimpse at Mel and her jewelry illum
 Let's mention other relevant characters, who are in the city but should be far away from the explosion: Caitlyn, former councilor Heimerdinger, Jinx, Mel's mother and Vi.
 
 
+
 # Scenario 1 - Negligible damage
 
 No one dies. The explosion is stopped or absorbed by Mel or by Viktor somehow. There is probably an awkward moment before the Council resumes its session and declares war on Zaun, or not.
 
 This is quite unlikely since Arcane has not been holding its punches and that would dampen the meaning of the rocket in the context of the conflict between Piltover and Zaun.
+
 
 
 # Scenario 2 - Immediate damage to the Council
@@ -62,6 +69,7 @@ Mel dying would affect her mother and Jayce. Mrs. Kiramman dying would affect Ca
 This is the most likely scenario, as a predictable way to drive Caitlyn, Jayce and Mel's mother to new paths.
 
 
+
 # Scenario 3 - Massive damage to the Council and immediate surroundings
 
 Most or all councilors die or are maimed. The explosion cannot be dampened sufficiently. The building and surrounding area are devastated and Piltover is immobilized for a while.
@@ -73,6 +81,7 @@ The Council being mostly out of commission and Mel dying will let Mel's mother t
 This is likely as a logical aftermath, but quite unlikely from a storytelling perspective, especially if everyone dies. It almost never happens in stories, it would cut short progressions of several characters (even if they are actually at decent stopping points), it would kill champions, and it would remove almost all known characters on the side of Piltover. However, it would be bold, and not impossible to resume from.
 
 
+
 # Scenario 4 - Massive damage to Piltover topside
 
 The Council is wiped and there is heavy damage in Piltover topside. The explosion is bigger than expected. Piltover is devastated and open to vultures.
@@ -82,6 +91,7 @@ Anyone who managed to survive takes charge, likely Mel's mother. It could still 
 This is unlikely since Jinx's rocket should not do that much damage at face value, but it could be an interesting path for the story, by not going into just war with Zaun but fighting for Piltover's (and Zaun) survival while likely precipitating a more global conflict for control over Hextech and weapons.
 
 
+
 # Scenario 5 - Massive damage to Piltover topside and undercity
 
 The Council is wiped and there is heavy damage everywhere in Piltover. The explosion is way bigger than expected. Piltover is devastated and open to vultures. Everyone in the area, including Caitlyn, Jinx and Vi, could be hurt by the explosion.
@@ -89,6 +99,7 @@ The Council is wiped and there is heavy damage everywhere in Piltover. The explo
 Basically the same as the previous scenario, but the undercity is damaged too, which would affect all characters everywhere, and not just on topside.
 
 This is very unlikely again, considering we are in the destruction range of nukes at this point.
+
 
 
 # Conclusion

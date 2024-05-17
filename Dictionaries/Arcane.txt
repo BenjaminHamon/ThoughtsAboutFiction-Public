@@ -1,6 +1,10 @@
+# cspell:disable
+
+Benzo
 Bolbok
 Caitlyn
 Claggor
+Deckard
 Ekko
 Firelights
 Grayson
@@ -24,6 +28,7 @@ Sevika
 Shoola
 Silco
 Talis
+Undercity
 Vander
 Vi
 Viktor

@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries English WheelOfTime
+# cspell:words Hamon Moria
+
 Identifier: 32e9a571-3ab5-4598-ad31-89add3f5c32e
 Title: Wheel of Time - A reread of the Eye of the World
 Author: Benjamin Hamon
@@ -17,10 +20,11 @@ Description: |
 ---
 
 
+
 <p class="warning">Spoilers for the Wheel of Time, for the first book the Eye of the World.</p>
 
-
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This article goes over several points about the Eye of the World book, without a particular goal and without being a review. I mention it here and there, but all of this is subjective and my point of view. Enjoy reading and please share your thoughts afterward. Cheers.*
+
 
 
 # Reread context
@@ -36,6 +40,7 @@ EotW was never my favorite book in the series, and it's not closer today. It fit
 Anyway, what follows are thoughts about the Eye of the World book, the good and the bad, from the point of view of someone already quite familiar with the Wheel of Time. This is not a review or an argument toward some point. I love the Wheel of Time, to death. And as you can see, I like to ramble.
 
 
+
 # A beginning
 
 Let's start in Emond's Field, as I am quite torn about the first chapters.
@@ -49,6 +54,7 @@ I expected the introduction to last for a good bit, but winternight actually hap
 > **EotW chapter 4**
 >
 > There was nothing the black-cloaked horseman could do that the people of Emond’s Field could not handle together.
+
 
 
 # The Caemlyn road
@@ -72,6 +78,7 @@ Not remembering details, I was tense the whole way to Caemlyn, expecting bad enc
 > “I won’t leave you.” Rand tightened his grip on his friend’s hand. “I won’t leave you no matter what.” *Light help us!*
 
 
+
 # Egwene
 
 I have known Egwene to be a controversial character, one day loved, the other hated, but overall I enjoy her character even if I am not a fan.
@@ -89,6 +96,7 @@ The fact that she also happens to be the jealous not-actually-his-girlfriend wit
 > Rand held Egwene’s bundle, handing it up to her when she was on Bela’s back. She looked back at him with wide, fear-filled eyes. *At least she doesn’t think it’s an adventure anymore.*
 
 
+
 # Wolves and ravens
 
 I had no memory of the flight while keeping out of sight of ravens. And it was haunting. Less captivating to me than the Caemlyn road or the Ways in that category, but quite amazing still.
@@ -102,6 +110,7 @@ While the ravens themselves, and the whitecloaks afterward, don't really feel li
 > Perrin looked at Egwene again and blinked away hot tears. He touched his axe and wondered if he had the courage. In the last minutes, when the ravens descended on them, when all hope was gone, would he have the courage to spare her the death the fox had died? *Light make me strong!*
 
 
+
 # The Ways
 
 As a kid, after I saw the first LotR movie, I could not bring myself to continue reading the book, I was at the part in the Moria and I was completely terrified. Now, as a grown man, let's say that when I was reading the chapters in the Ways in my bed, I almost put the book down because I was sure I would have nightmares.
@@ -113,6 +122,7 @@ The Ways are a maze with all the worst fears: vertigo, getting lost forever, the
 > **EotW chapter 45**
 >
 > Suddenly he blinked. “Loial, didn’t you say there isn’t any wind in the Ways?”
+
 
 
 # The atmosphere
@@ -132,6 +142,7 @@ One point that can illustrate this wrongness of tone is Moiraine. She is all kno
 > *I wish I knew as much about women as Perrin.*
 
 
+
 # The Dragon and the One Power
 
 That is a section to expand for the show, but I have to say that while there is some mentions of the Dragon early on, overall there is very little information about him and about the One Power. This fits with my memories, that we spend a good while with limited knowledge and no certainties of anything. Unfortunately, the story kind of robs you of some of its impact, because while the general atmosphere is ominous and mysterious, it also follows a clear path and uses conventions aplenty, the genre tropes and the LotR formula really. Then again, it is hard to tell when you already know the rest of the story, and decades after the book was written.
@@ -146,6 +157,7 @@ The words "Dragon Reborn" really only appears 6 times in EotW! Half the "Dragon"
 > “What kind of need would be great enough that we’d want the Dragon to save us from it?” Rand mused. “As well ask for help from the Dark One.”
 
 
+
 # An ending
 
 The EotW ending has a reputation, yet I was eager to get to it. I was surprised to notice the progression of the story compared to the percentage of the book I had read: they get to Shadar Logoth at 35%, to Caemlyn at 65% and they leave at 80%. Time to rush to the end real fast!
@@ -157,6 +169,7 @@ I don't think I can get into the specifics of this one without going into spoile
 > **EotW chapter 52**
 >
 > “What happened?” Moiraine said. “Tell me everything!”
+
 
 
 # Afterword

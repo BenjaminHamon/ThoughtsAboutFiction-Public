@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries English WheelOfTime
+# cspell:words Baru Fitz Hamon Phèdre
+
 Identifier: 1017ac53-81ed-4867-a6a8-b85a1e0cc9fc
 Title: Wheel of Time - Min
 Author: Benjamin Hamon
@@ -19,10 +22,11 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for the Wheel of Time, the show up to season 1 and all books.</p>
 
-
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm writing some general thoughts about early Min from the Wheel of Time. This is all subjective, interpretation and lengthy discussion that may go beyond the explicit scope of the source material. Enjoy reading and please share your thoughts afterward. Cheers.*
+
 
 
 # Content relevancy and spoiler potential
@@ -30,6 +34,7 @@ Description: |
 In writing about the Wheel of Time, I try to focus up to some reference of progression, where the show has reached so far, translating to one season and the EotW book. I did read all books and do make a number of reference to their content as well. When talking about Min, it is hard not to look forward to future events. Even in discussing her early appearance, you have to describe her while having in mind future developments, because a character is innately more than you observe, and always a sum of layers, which uncover for you over the pages and the frames.
 
 Note that I reference a few characters from other fictions here, breaking my own rule of avoiding making comparisons. I keep it as vague as I can, if you wish to expand on those or give other examples, please remember to warn about spoilers accordingly.
+
 
 
 # Seer
@@ -43,6 +48,7 @@ I believe Min does not quite fit in one category. The first impression would be 
 Cassandra was the first name in my mind when starting this, although her character has some major differences. Cassandra is a Trojan princess who gets bestowed the power of foresight by the god Apollo but is cursed to never be believed. In particular, she prophesies the fall of Troy very early on but its leaders, her own family, ignore her.
 
 The image I have of Cassandra may be wrong (or just one of hundred of interpretations) but I find Min and her to be similar. They both get a power they do not really want, are at the front seats for the disaster they themselves foresee, witness loved ones being victims of fate, have few if any means to intervene. While Cassandra warns about disasters and is met with disbelief every time, Min attempts to prevent them or instead to run away from them. In the end, both see the tragedies occurring anyway, because their prophecies will always come true.
+
 
 
 # Glimpses of the Pattern
@@ -62,6 +68,7 @@ Furthermore, Min does not exactly see the future, as may be somewhat implied whe
 A major trait of Min's viewings is that they will always come true, and often she is able to interpret them with certainty long before the event itself occurs. This, combined with her inability to completely ignore the auras, makes her power into a curse and causes her to expect tragedy after tragedy. Min would prefer to live out her life ignorant rather than be haunted with constant previews to the Last Battle. However, Min does not lack courage and will end up standing at Rand's side rather than flee.
 
 
+
 # Min Farshaw
 
 Min's behavior in always using the diminutive is revealing of her story. She was Elmindreda and wished to be her own person, assuming a more assertive demeanor than her father and aunts would have liked, and looking for a path in life. Min hides who she was born as and raised to be, to build herself anew. Funnily, this is a description I could give of not one but two characters named Max, never to be called Maxine.
@@ -72,7 +79,8 @@ Min's personality parallels her goals, it is a balancing act between her needing
 
 In EotW, Min is a a playful young woman, if serious and threatening, who shows an odd interest in Rand and who interacts with Moiraine in the background. In the show, Min is an ordinary barmaid who hides her power and dislikes it for being invasive, yet she is also has a very obvious tell when she keeps secrets to herself, and she does not shy away from revealing what she knows when she deems it important. Despite her principles and worry about her own safety, Min is reluctant to only be an observer and a bird of ill omen. Her sassiness and candidness, toward Moiraine and Rand notably, tell the story of her mind and announce the kind of person she will reveal herself as.
 
-Interestingly, Min is very similar in personality to the Two Rivers folks, which should not that surprising considering Baerlon's location. Min is headstrong, protective, sassy, caring, brave, loyal. However, she could be said to lack what the main characters have, destiny and duty, one way or another, and even though she considers herself prisoner of fate too, she may be one of the characters with the most agency for her own choices. Min could remain hidden in her inn, or later in Tar Valon, and she flees Fal Dara without hesitation, whereas the heroes are forcefully led to the frontlines. When Min will join the battle, she will do so from her own volition. In the end, Min takes decisions following her head and her heart, not some prophecy, great design or twist of fate.
+Interestingly, Min is very similar in personality to the Two Rivers folks, which should not that surprising considering Baerlon's location. Min is headstrong, protective, sassy, caring, brave, loyal. However, she could be said to lack what the main characters have, destiny and duty, one way or another, and even though she considers herself prisoner of fate too, she may be one of the characters with the most agency for her own choices. Min could remain hidden in her inn, or later in Tar Valon, and she flees Fal Dara without hesitation, whereas the heroes are forcefully led to the front lines. When Min will join the battle, she will do so from her own volition. In the end, Min takes decisions following her head and her heart, not some prophecy, great design or twist of fate.
+
 
 
 # Philosopher

@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries English WheelOfTime
+# cspell:words Hamon
+
 Identifier: 3bda8eba-0b1e-4b92-8d9e-181d6d14cf3d
 Title: Wheel of Time - Who is Alanna
 Author: Benjamin Hamon
@@ -20,10 +23,11 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for the Wheel of Time, the show up to season 1 and all books.</p>
 
-
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm looking into how Alanna is portrayed in the Wheel of Time show, to see if she is being foreshadowed to be a villain. It's one point in a list of "crazy theories" but this particular one seemed to warrant a full post rather than a quick thought. I try to keep this kind of disclaimer short to avoid boring you, in this instance it's probably important to clarify that this is all subjective, interpretation and often lengthy discussion beyond the explicit scope of whatever fiction I am exploring. Enjoy reading and please share your thoughts afterward. Cheers.*
+
 
 
 # Introduction
@@ -35,11 +39,13 @@ Being a long-time reader, I enjoyed the show so far and am partial to this type 
 In this post, I will go over a few peculiar items about how Alanna is depicted in the Wheel of Time show and comment on if she is being subtly set up to be a villain, or some kind of antagonist to Moiraine. I will investigate and speculate, about Alanna being more than what she appears as. If anything, we are dealing with foreshadowing, so it's difficult to differentiate simple actions, words and body language that plainly match the events, from meaning intentionally hiding in the details. I know a lot of this is shaky at best, so don't take it too seriously, and indulge me, for foreshadowing and unreliable narration are core to the Wheel of Time. Most of the stuff here is small things that irked me for whatever reason and which made me look for more, wondering about secrets to unearth.
 
 
+
 # Book Alanna
 
 A quick detour to mention the original Alanna. In the books, Alanna is a recurring yet minor Aes Sedai, just another one in the hundreds we encounter. However, minor might be underselling her, because while she is not used extensively, she is a long-running character, from the Great Hunt to a Memory of Light, who interacts more than once with the main characters. We remember her mostly for bonding Rand against his will. Beyond that, she is around in the White Tower, then in the Two Rivers, then around Rand. She does not take major importance, serving merely as one particular Aes Sedai, later as a way to find Rand and communicate the depth of his inner pain, and finally as a tool against Rand in the Last Battle.
 
 For myself, I remembered expecting Alanna to fill a major role in the later books due to her bond with Rand, but she stayed in the background. With her early appearance in the show and the potential around her character and her actions, she may well get a more prominent place.
+
 
 
 # The villain eating trope
@@ -57,6 +63,7 @@ Note that eating is one of those mundane life details that seldom appear in medi
 Just like the next pieces of evidence, this one got a "that's funny" from me. At first, literally. But then more in the suspicious way: something is weird there.
 
 
+
 # Conversing with Moiraine
 
 There are several exchanges between Alanna and Moiraine. They have their purpose, but if there's foreshadowing to find, we have to go over the words again.
@@ -70,9 +77,11 @@ When they discuss in Moiraine's room in the White Tower, Alanna first puts her a
 Again, not much concrete evidence, as all of it can get explained as Alanna being Moiraine's friend, being Green Ajah so interested in the Last Battle, and simply playing the typical role of a nosy Aes Sedai.
 
 
+
 # Stepin's funeral
 
 When I first saw Stepin's funeral, I noticed Alanna appeared emotionless, maybe even bored. Considering the event, and how emotional Moiraine and Nynaeve get, Alanna being right there like this felt wrong. I first thought the actress was performing badly or that she displayed the usual Aes Sedai calm. Yet, the actress is very good the rest of the time, and Alanna has a bit of a temper, and why is she even there if she didn't want to be? So maybe Alanna is actually bored in this scene, uncaring of tragedy near her.
+
 
 
 # Connection with Liandrin
@@ -88,6 +97,7 @@ So why is Liandrin the visible leader? Perhaps simply she is powerful and other 
 As for rebuffing this one, Aes Sedai are Aes Sedai. They're often like this, exaggerating their own importance and playing spies, as Liandrin puts it.
 
 
+
 # The other stuff
 
 A few quick bits which don't fit in other sections or that I can't quite figure out.
@@ -95,6 +105,7 @@ A few quick bits which don't fit in other sections or that I can't quite figure 
 Something that feels both like my imagination and an actual thing you would do: the recap for episode 6. Moiraine says "Do not underestimate the women in this tower.". Obviously, it shows Liandrin, but then it's not Liandrin speaking, it's Alanna, and she speaks for several seconds over the image of Liandrin before being visible herself. So yeah, call me crazy, because if I see hints in episode recap, I have to be insane.
 
 While Siuan is making her show of strength toward Moiraine, we get a glimpse of Alanna with a lot of expression in her face: she averts her eyes and gulps. Why focus on her instead of Moiraine? I don't know if there is hidden signification here, beyond Alanna feeling the pressure of the Amyrlin Seat, but for good or for bad, there is stuff going on in Alanna's head.
+
 
 
 # Black Ajah
@@ -108,11 +119,13 @@ I went over Alanna's words again, and while she does not have that many lines an
 It would be bad to suspect everyone to be a darkfriend, but you kind of have to.
 
 
+
 # Just another Aes Sedai
 
 As for what we know she is supposed to be: Alanna does not bond Rand because she is evil and wants control, she does it because she believes it has to be done, that Rand left unchecked is too dangerous. Many Aes Sedai share this opinion, but Alanna has the personality and the opportunity to act on it. Alanna is an Aes Sedai, and acts like it's expected of the role for the most part.
 
 I don't think Alanna has motive to betray Moiraine, or Siuan, or the Tower. She seems genuine in talking about the Last Battle and her joining the Green Ajah. So in the end, she will likely go down her expected path, and the show is setting her up as a particular Aes Sedai character. The biggest argument against Alanna being any kind of opponent is the last look we get at her, where she is visibly distraught when Moiraine is exiled.
+
 
 
 # Conclusion

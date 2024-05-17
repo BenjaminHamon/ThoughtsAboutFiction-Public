@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries Arcane English
+# cspell:words Hamon
+
 Identifier: 8e4626b5-6958-4905-b20d-484832b87cf9
 Title: Arcane - Powder and Jinx
 Author: Benjamin Hamon
@@ -20,7 +23,9 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for Arcane season 1.</p>
+
 
 
 # Introduction
@@ -30,6 +35,7 @@ Hi and welcome. I was feeling the need to write about Arcane, and, after a while
 Powder is a fascinating character in my opinion, and the main character in Arcane. There is a lot to talk about, but let us start by setting up a nice discussion environment. Powder is a fictional character, for which we, and the story writers, have an incomplete and subjective picture. We also don't have that much content to go off. So what I'll lay out here could be right on target or completely wrong, it could be over-analyzing or over-interpreting, it could be reaching or projecting. Anyway, I find it very interesting to delve into the creations of our collective imagination.
 
 One important point: Powder visibly suffers from trauma and mental health issues. I, and many others, deal with my own issues in that, and I try to educate myself in the subject. However, I am not competent in this area and I will stay away from making statements about her health and about mental disorders in general, as these are sensitive and complex topics. Instead I will try to talk about Powder herself, who she is, what she thinks, how she feels, what happens to her. I do encourage everyone to discuss mental health, from media and from real life, here and elsewhere, because it is important to. Be kind and respectful, that's all.
+
 
 
 # Naming Powder and Jinx
@@ -44,6 +50,7 @@ In my eyes, there are three main stages to her character:
 For the most part, it will simply be Powder, as it is who she is at her core and simply her original name, and there is not really ambiguity between Powder and Powder/Jinx. I hope it will make sense to you. Shimmered up Powder might be another stage, and kind of blurs the lines on when Powder really becomes Jinx, so at some point I may be frenetically switching between Powder and Jinx.
 
 
+
 # Character ages
 
 Some quick notes about how old I consider characters to be, since it is not stated explicitly. Skip if you don't care about these details.
@@ -55,6 +62,7 @@ In my mind, in the very first scene, Vi is 14 (13 to 15, a teen) and Powder is 7
 I am not quite sure about Powder/Jinx's final age, as she appears like and acts like a teen, maybe a young adult. Her mental health issues do not help. Her and Ekko seem like they are about the same age in the beginning, but Ekko ends up as an accomplished fighter and leader for the Firelights, probably making him older. I actually was expecting the Firelight leader not to be Ekko but to be related to him, since it was too obvious a conclusion for how they hid him, and because it seemed weird for Ekko to be a leader at such a young age. Their environment, with the sickness, malnutrition, violence and need to fend for yourself, make it even more muddy.
 
 
+
 # The innocent girl Powder
 
 Let's start simply by talking about the cute little Powder.
@@ -63,13 +71,14 @@ Kid Powder is joyful and innocent, playful and smiling. She has a caring sister 
 
 Powder and Vi are very close. Vi looks after and cares for her sister, who herself looks up to her and tries to prove herself to her. We see Vi encouraging Powder on their way to the job, then supporting and defending her after she loses the loot. Even when Powder overhears Mylo and Vi talking and, in classic fashion, hears only parts of it and make conclusions, she is quickly joined by Vi who comforts her and takes the time to rebuild Powder's self-confidence. Powder's admiration, love and trust for her sister are clearly visible, as well as her insecurity. She is a kid, and relies on Vi as a parent, a friend and an ally.
 
-Powder is tired of being alone, and is eager to be useful. She wants to follow Vi, to be like her. At the same time, she understands that she is still little, that she isn't a fighter, that her contraptions don't work, and that the others only see her as a source of trouble. In a way, she accepts and internalizes it. She acts tough and tries to defend herself against Mylo, but she also makes herself discreet and gloomy, and probably looks forward to being recomforted by Vi. She is a child, in a tough world, and who has to follow her sister and the group or be left behind. Meanwhile, Vi tries to raise her and make her happy, while wishing to keep her from the monsters.
+Powder is tired of being alone, and is eager to be useful. She wants to follow Vi, to be like her. At the same time, she understands that she is still little, that she isn't a fighter, that her contraptions don't work, and that the others only see her as a source of trouble. In a way, she accepts and internalizes it. She acts tough and tries to defend herself against Mylo, but she also makes herself discreet and gloomy, and probably looks forward to being comforted by Vi. She is a child, in a tough world, and who has to follow her sister and the group or be left behind. Meanwhile, Vi tries to raise her and make her happy, while wishing to keep her from the monsters.
 
-I'd like to say Powder is happy, at the beginning of the story. She appears genuinely happy when she is with Vi. But she is also sad, lonely, scared. She is one of numerous orphans in the undercity who live in awful conditions and have to fend for themselves. Powder is the innocent kid in the show (as is Ekko, but he is not in focus early), the one person which is not due for or already deep in violence, crime or scheming.
+I'd like to say Powder is happy, at the beginning of the story. She appears genuinely happy when she is with Vi. But she is also sad, lonely, scared. She is one of numerous orphans in the Undercity who live in awful conditions and have to fend for themselves. Powder is the innocent kid in the show (as is Ekko, but he is not in focus early), the one person which is not due for or already deep in violence, crime or scheming.
 
 Powder's happiness and innocence, and the way Vi tried to shelter her, make her downfall particularly tragic. It also separates her from and contrasts with the other characters. Vander is struggling to keep a fragile peace, Vi wants to fight and to take revenge on Piltover. Powder is very different from Vi, but she tries to emulate her and will end up resembling her in many ways. Vi is a strong and stable person, with a good heart and a good head on her shoulders (at times), but she has something to prove, energy to spend, and ideas for trouble and vengeance in her mind. Vi does not realize how she is herself corrupted by the world. Vander wishes to guide her, and she tries, but she does not get to understand or to get better in time, and it will impact her relationship with Powder dramatically, twice. Vi is, by her own choice and by how her world is, on a path to violence, to becoming a fighter. Powder will do the same, adding explosives skills to the mix, and with her own identity and trauma making it a twisted mess. Whereas Vi is headstrong and grown-up, Powder is insecure and childish. Her looking up to Vi, her trauma, and the not so great guidance from Silco, will lead her into becoming Jinx, crazy and terrible.
 
 Mylo wanted to shot an airship down, but Powder wanted to ride in one. She should have a normal life, it would be harsh but she could be happy, she would grow up surrounded with family and friends. That is not what she gets. Her parents died, Vander and Vi took care of her, Vander dies and Vi leaves, Silco takes her in. When what little she had goes up in flames by her fault, when she is left completely alone, she can only break, attach to the first thing she sees, and slowly rebuild herself, somehow.
+
 
 
 # The emergence of Powder's Jinx curse
@@ -87,6 +96,7 @@ When Vi hit Powder, and maybe at the times where Vi would get angry at her (see 
 Who is going to help her now? Silco? No, but he will give her a playground for her madness, and total acceptance for whatever she makes herself to be. And he shares his own thoughts. The topside and the undercity. There is a root cause to how horrible her life is, how terrible she is. If Silco may not be able to give her love, he definitively can give her enemies. And so can Vi, so can the voices in her head. So she will be Jinx. She will prove herself as a fighter, she will make them pay, she will make her sister proud, she will show them all.
 
 Powder has a lot of ammunition to feed Jinx, to rebuild herself, to become Vi and more. Silco provides an appropriate environment for Jinx to evolve in, to become what he wants, even if he may not be directly shaping her, even if they have a fragile trust. And Jinx grows up, she gets strong and agile, she learns to brawl, she makes her gadgets work and creates a whole armory out of it, she prepares to fight against Piltover.
+
 
 
 # The Powder/Jinx identity crisis
@@ -120,6 +130,7 @@ Even at this time, when Powder seems ready to fall into ever greater depths, she
 Overall, it's difficult to pinpoint Powder at this stage. To know how far gone she actually is, how much she believes in being Jinx, and to what extent she is herself, in control and lucid, rather than just riding the wave of the madness around and within her. The intimate moments, when she breaks down from reliving the explosion, when she hugs Vi, when she cries before Ekko, when she resists the voices in her head, those moments betray here to be just Powder in my opinion. But she is also a killer with no remorse, someone who enjoys violence, an unstable and destructive person, who will soon be too far gone.
 
 
+
 # The death of Powder and her rebirth as Jinx
 
 You thought Powder was at her lowest when she was basically killing herself? Well, the end is not here just yet. Because Jinx gets brutally brought back to life and to hell.
@@ -149,6 +160,7 @@ Then it just continues getting worse. Silco, and Vi especially, try to win her o
 This way ends the hellish path for Powder. As Vi calls to her one last time, she takes up her seat, and becomes Jinx for good. Even still, she is lucid, she makes the choice herself. Jinx explains to Vi how she wanted to be loved, how she is different, how she feels betrayed by her. The two sisters have drifted apart and were forged into two radically opposite women. Regardless of their bond, the world and fate made sure to turn their childhood hopes into nightmares.
 
 Finally, the true Jinx, the monster inside her, screams out in her rebirth and, crying, sends off the fireworks, in the form of a rocket to blow up Piltover. Powder is gone. Jinx is a villain and the cause of death of all around her. Mylo is dead. Claggor is dead. Vander is dead. Silco is dead. And many more are dead and seconds away from dying. Peace with Piltover will be impossible. Vi is powerless and can only pick up the pieces, as she too loses her family, again.
+
 
 
 # Conclusion

@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries English WheelOfTime
+# cspell:words Hamon
+
 Identifier: 224aa652-84a0-427c-bced-af591de2ed3c
 Title: Wheel of Time - Nynaeve
 Author: Benjamin Hamon
@@ -19,10 +22,11 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for the Wheel of Time, the show up to season 1 and all books.</p>
 
-
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm looking into Nynaeve, primarily from how she appears early in the Wheel of Time, with the show's first season and the Eye of the World book. This is all subjective, interpretation and often lengthy discussion beyond the explicit scope of whatever fiction I am exploring. Enjoy reading and please share your thoughts afterward. Cheers.*
+
 
 
 # Foreword
@@ -38,11 +42,13 @@ Until not so long ago, I may have hastily described Nynaeve with what I would co
 Now, I would consider Nynaeve to be quite the complex character, and I shall delve into several different points about her. I focus on fresh memory from EotW and from the show, as well as on glimpses from what I can recall from the rest of the books. To my surprise, this quickly turned out to be very long, and I even removed parts that went way too deep into later events and later character development. As it turns out, even writing about one character at one stage in a huge fiction like the Wheel of Time can be quite the endeavor.
 
 
+
 # Introduction
 
 Nynaeve, the Wisdom of Emond's Field, is a bit of a force of nature and an exceptional woman. She wades between outward fury and covered up insecurity, she wields authority and confidence, armed with great abilities and powers, she dispenses help and love without being prompted to and with no expectation of reward. She has a bad temper, is nosy and hasty, but also afraid and lonely. Behind her stern front, she is a young adult with something to prove and fulfillment to find, armed with a kind heart, a sense of duty, great abilities and powers, and her trusty braid. Nynaeve leaves the Two Rivers with an already set personality, as well as a good foundation for her identity and her principles.
 
 While talking about Nynaeve, I am going to showcase and explain the various impressions she gives off. Nynaeve can be described as an authority figure, a bad-tempered woman who is always after you, almost something of a lord over her subjects. But her truer nature might be a mother figure, a stern and caring woman who values protecting her loved ones above all. Intertwined between her heart and the face she wears, there is her insecurity and her loneliness, her fight with herself and her struggle with power. In the end, Nynaeve is a benevolent person who uses her voice and abilities to do what is right and to defend those she cares about, rather than abusing her powers and dismissing those below her. I believe it's important to highlight this difference in perception, as it emerges of thoughts from Nynaeve herself, from people around her and maybe even from the audience.
+
 
 
 # A figure of authority
@@ -52,6 +58,7 @@ Nynaeve is introduced as an authority figure in the Two Rivers. The show depicts
 I want to stress the word "figure" because in her mind and in the eyes of some, Nynaeve has only the silhouette of being the one in control. There are some who consider her to be too young to be a Wisdom and to be particularly meddlesome. The show's scene where Lan and Moiraine enters the inn in the Two Rivers, however cheesy it is, does communicate about Nynaeve's haste to appear in command, only for her to be dismissed without a word. As far as we know, Nynaeve is fairly respected and does have power, with a reputation of a capable Wisdom, possibly even an unmatched Wisdom in her ability to heal. Nynaeve tries her best, and does very well, but has some insecurity about her being fit to be the responsible person, the one who makes decisions. She is not doubting her legitimacy or her skills in themselves, but her ability to succeed, when in dire situation or under scrutiny.
 
 If nothing happened, Nynaeve would most likely have been on her way to become a revered Wisdom, as she already has the foundation and environment for it. But of course, Moiraine arrives, the village is attacked and Nynaeve herself becomes aware of being a channeler. The events that ensue, the changes to Nynaeve's status and environment, those will reinforce her self-doubt and find her semblance of authority challenged for real, first by Moiraine and Lan, then by Aes Sedai, then even by Egwene and the boys. Nynaeve is thrown into a world she has no control on and with people who will try to harm and manipulate her.
+
 
 
 # A mother
@@ -71,6 +78,7 @@ Every time, in the show and the books, Nynaeve behaves with a caring, understand
 Nynaeve being a Wisdom and a healer, and later an Aes Sedai, fits right in with her having a motherly nature. She treats everyone as a child, acts with authority and protectiveness, and works hard to keep everyone safe and healthy. Considering Nynaeve's age compared to the Emond's Field kids she follow, it could be said to be an elder sibling assuming a parenting role instead, but I would argue Nynaeve goes above and beyond that to be the mother figure, and notably does so regardless of who you are and how old you are.
 
 
+
 # Loneliness and insecurity
 
 The mother and authority role Nynaeve assumes, as a Wisdom and as a person in general, is unexpected of a young and hot-tempered woman like her, and she often gets criticized or dismissed, despite her prodigious abilities. Nynaeve is locked in a lonely position, being a Wisdom and without family of her own, unlikely to wed and to have children. While she holds family and issues of the heart in high regard, she distances herself and acts with seriousness befitting to her role and responsibilities, even imposing on herself more than she should or could, as she tries to be there for everyone and to maintain the bonds between people.
@@ -78,6 +86,7 @@ The mother and authority role Nynaeve assumes, as a Wisdom and as a person in ge
 Nynaeve, as far as we know, lacks a close supportive cast around her, unlike most other people in Emond's Field. Everyone seems to have at least some family and friends, even if they can be awful, as the show decided to lean into. Rand has his father, Mat has his sisters, Perrin has his wife, Egwene has her parents, and all of them have close relationships between each other. Nynaeve, while easily integrated in the group later on, first appears as outside any sphere, by choice or by obligation. As far as I can tell, the one closest to her would be Egwene, who is subservient to the Wisdom and eager to learn rather than to help or to be friendly. We don't get that many details about Nynaeve's life to be definitive about that, however the show does depict her as solitary: when Lan and Moiraine arrive, when she is cleaning the sacred pool, when laying down the lanterns.
 
 Nynaeve gets pushed into the position of Wisdom very early in her life, and even though she has the trust of the women and some respect from the men, she has trouble affirming her authority, or even convincing herself of being worthy of wielding that authority. Nynaeve may also fit into a frequent issue with gifted individuals: she achieves miracles while young and impressionable and looking for recognition, but she also sets precedents and a bar for expectation, meaning she has to keep doing just as well or better each time, or she will get brushed off. She is unlikely to experience this problem in the Two Rivers, where she has support and an unmatched reputation. But once Nynaeve goes off into the world and gets confronted with actual opposition, notably with Aes Sedai as she joins the White Tower, suddenly she is even more alone, far from home and surrounded with rivals and opponents, bearing more experience and comparable skill.
+
 
 
 # Anger and lack of control
@@ -92,9 +101,10 @@ To the risk of being controversial, I would say the show may actually do a bette
 
 Nynaeve reacts with aggressiveness and anger when confronting Moiraine, as well as with all Aes Sedai, and with Lan at first. She is opposed with control and dismissal and manipulation, except from Lan who is rather impressed, friendly and welcoming with her. For Nynaeve, the start of the story is her being thrown into a difficult situation to which she is not prepared and where she lacks any measure of control. Her ingrained solution of getting angry and making a show of authority and strength is not enough to get what she wants, on the contrary, she is closer to being played with than respected. Only her impressive display of channeling gets others interested in her, and not for her own benefit.
 
-In my opinion, Nynaeve's temperament and demeanor is her way to mark her authority, which she believes gets challenged or ignored because of her youth and inexperience, and to overcome her feeling of unworthiness, in order to present a confident front, appearing as reassuring through strength rather than control. Over time, she attempts to improve herself in that aspect, or maybe to replace that façade with actual control, but without much success. Her anger issues, and thus actually insecurity issues, materialize notably in blocking her from using the One Power whenever she wants. Rather than providing a motivation, this block likely pushes her to lock herself further into the trap of needing anger to express herself freely.
+In my opinion, Nynaeve's temperament and demeanor is her way to mark her authority, which she believes gets challenged or ignored because of her youth and inexperience, and to overcome her feeling of unworthiness, in order to present a confident front, appearing as reassuring through strength rather than control. Over time, she attempts to improve herself in that aspect, or maybe to replace that facade with actual control, but without much success. Her anger issues, and thus actually insecurity issues, materialize notably in blocking her from using the One Power whenever she wants. Rather than providing a motivation, this block likely pushes her to lock herself further into the trap of needing anger to express herself freely.
 
 Funnily, I would not even consider Nynaeve to have something to fix in her personality, I would not want her to become meek and friendly all the time. Compared to the Emond's Field kids, she is a person who grows, solidifies herself and matures, but her core stays pretty much unchanged. All five are impressionable and unprepared, but Nynaeve is the one with an already set personality and vision of the world. Her growth is about mastering her power and emotions, and finding true confidence in herself.
+
 
 
 # Relationship with Rand and Egwene
@@ -106,6 +116,7 @@ Rand, as mistrustful as he already is and as he grows over the story, always has
 As for Egwene, while the two women are close and look out for each other, their relationship will be strained by their different views and involvements with Aes Sedai, the oaths and politics. I would probably expand this relationship while writing about Egwene herself, as I also appreciated her portrayal, different from early Egwene but more likable while keeping her original identity. Egwene begins as an eager girl, who looks up to Nynaeve and imitates her manners. Egwene being Nynaeve's apprentice and close to her, we see Nynaeve regularly watch over her and guide her, more than the three boys. As Egwene becomes more independent and switches to following Moiraine rather than Nynaeve, the Wisdom probably feels betrayed and more isolated, even though Egwene stays friendly with her and tries to reason with her rather than confronting her. This is illustrated by Egwene being deferent to Nynaeve at the start, but reversing their role once in Fal Dara, when she tells Nynaeve about her bias against Moiraine. In the last episode, the two of them act more as equals than as a master and an apprentice.
 
 
+
 # Relationship with Moiraine
 
 To Nynaeve, Moiraine is probably a mirror that sends her back an image she is not happy with. Moiraine is similar to Nynaeve in that she is an authority figure with noble goals, toward which she works selflessly and tirelessly. Yet, while Nynaeve continuously displays anger and frustration, Moiraine is a picture of self-control and calm. Moiraine tries to guide Nynaeve, in her own way of stating dangers rather than inspiring trust, but Nynaeve only grows more confrontational and mistrustful as time goes on, irritated by the Aes Sedai's attitude, the danger the Two Rivers folks are in and by Moiraine taking Egwene away from her.
@@ -113,6 +124,7 @@ To Nynaeve, Moiraine is probably a mirror that sends her back an image she is no
 In the show and in the books, Nynaeve positions herself repeatedly in opposition to Moiraine, when arguing about returning home, when arguing about which path to take, when arguing about being a channeler and needing to learn, when arguing about withholding information, when arguing about their mission. Nynaeve, despite being set to become a channeler and an Aes Sedai herself, holds Moiraine and the sisters in low regard, from preconceptions built on their reputation outside Tar Valon, from Moiraine's shady behavior, and from herself directly interacting with Aes Sedai who prove themselves to be manipulative, power-hungry and arrogant.
 
 As for Nynaeve's personal feelings toward Lan, his bond to Moiraine makes the relationship complicated, and Nynaeve feels like Lan is out of her reach. In reality, it probably turns out to be a strong motivation for Nynaeve, as she does not admit defeat easily. She will not stop trying to surpass Moiraine, and she will not stop pursuing Lan, even with her own reluctance and lack of self-assurance in the romance.
+
 
 
 # Relationship with Lan
@@ -132,6 +144,7 @@ The scene that does not work so great, in my opinion, is the one in the episode 
 Perhaps, at some point Nynaeve would have asked herself, after she left her village and life behind to save the kids, with the hope of coming home quickly, why would she have become involved with Lan of all people, someone who would never simply follow her back home.
 
 
+
 # Wielding the One Power
 
 I kept the One Power for the end, because it is both the most important and the least important notion for Nynaeve as a person.
@@ -143,6 +156,7 @@ Nynaeve starts relying on the One Power but stumbles on the block preventing her
 Interestingly, in the show and in EotW, her block's existence has not been stated yet, and there is some room to discuss her early usages of the One Power as her not being angry. In particular, she is not angry when listening to the wind in the Two Rivers, but later cannot do it. Even leading to her healing bomb, she seems to be more in grief than in the fury she is described to require. It's possible her block begins after she acknowledges herself as a channeler. From what I recall of the books, she even has to premeditate her anger to build it up, and trying to summon it on demand is difficult.
 
 Nynaeve uses her prodigious power as a crutch, to become stronger than she sees herself as. But in reality, she does not even need it at all. Nynaeve exhibits qualities and skills to such a degree that the One Power is almost just a nice plus. Nynaeve is defined by her determination and courage, her imperfection and changing self-assurance, her loyalty and her love, and finally her power and abilities. These qualities and strengths help those around her stay steady and alive.
+
 
 
 # Conclusion

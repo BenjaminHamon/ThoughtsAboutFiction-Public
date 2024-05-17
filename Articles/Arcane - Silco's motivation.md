@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries Arcane English
+# cspell:words Hamon
+
 Identifier: aa468fee-d93d-4b57-9bd4-9bfdfdc18db8
 Title: Arcane - Silco's motivation
 Author: Benjamin Hamon
@@ -19,10 +22,11 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for Arcane season 1.</p>
 
-
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, we will be analyzing Silco's character and trying to pinpoint what he was trying to accomplish. Enjoy reading and please share your thoughts afterward. Cheers.*
+
 
 
 # Introduction
@@ -36,6 +40,7 @@ We don't know much about Silco, who he was and who he is. What we learn about hi
 My main question is, as I watch and re-watch Jinx firing her rocket, did Silco want war? What did he work toward?
 
 *Note: I've purposefully changed or removed parts to avoid going too deep on Silco's character, to try to only focus on his objectives and the significance of Jinx's action.*
+
 
 
 # Silco the insurgent / The dream of Zaun
@@ -57,6 +62,7 @@ One notable line is Silco saying he just needs to make Piltover scared, implying
 Silco the insurgent wished for freedom, respect and opportunity, not blood.
 
 
+
 # Silco the leader / The undercity's prosperity and misery
 
 Then, Silco led the undercity, trying to achieve the dream of Zaun and prosperity.
@@ -70,6 +76,7 @@ This is paralleled by how he handles Jinx. He truly believes he is right and wan
 After Vander betrayed him, and Silco was "reborn", he felt like the near death experience made him enlightened, and he developed a fatalistic and static worldview as well as a twisted mentality. He is convinced he is right and that he must do anything to achieve his ultimate vision, the nation of Zaun.
 
 Silco the leader took power in the undercity and built his empire, prosperous but with people more crippled than ever, powerful but continually falling behind. He achieved some changes, got power for himself, and avoided open conflict with Piltover, but his old dream of Zaun feels far yet, even the one where he does it for his own ambition.
+
 
 
 # Silco the father / The dream just out of reach and the tragedy
@@ -89,6 +96,7 @@ So Silco is about to get everything he ever wanted, from his own admission to hi
 Instead of the nation of Zaun becoming real, we get Jinx killing Silco, by instinct, to protect Vi. To exact vengeance for her and Silco, probably believing this is what Silco would have wanted, Jinx fires her rocket at Piltover. She likely kills most of the Council, which was in this very moment agreeing to peace and to Zaun's independence, making Silco's dream true for a second, before being obliterated by Jinx.
 
 Silco the father had his dream, his one objective for decades, within his grasp. He would have discarded it all for the new center of his life: his daughter, Jinx, and his love for her.
+
 
 
 # Conclusion

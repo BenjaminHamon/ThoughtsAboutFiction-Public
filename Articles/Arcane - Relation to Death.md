@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries Arcane English
+# cspell:words Hamon
+
 Identifier: 63f729e1-27fe-473f-8a31-a6b962c78710
 Title: Arcane - Relation to Death
 Author: Benjamin Hamon
@@ -18,10 +21,11 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for Arcane season 1.</p>
 
-
 *Hello everyone, here is more writing about Arcane. Today, delving again into death to follow up on the previous article. I'm not quite satisfied with this one, and wish to move on to the next topics. Rather than shelving it, probably forever, I'm posting it as is because why not. Thus it may come off as disjointed points and unfinished thoughts, and not particularly well structured. Also, sorry I use the exact word death over and over. Enjoy and please share your thoughts.*
+
 
 
 # Introduction
@@ -37,6 +41,7 @@ There's not that much material, but we could probably start describing the relat
 As always, I'm not really trying to make a point, more formulating a stream of thoughts.
 
 
+
 # Silco's near-death experience
 
 I somehow completely missed that one in the suicide discussion, but it would fit.
@@ -48,6 +53,7 @@ More than just the idea though, it's Silco who first shows the immense influence
 Silco learns from death, it changes him profoundly. Facing death, acknowledging it, yet turning away from it, finding rebirth. Again, there's the idea of suicide in there, how the deed is often because of a lack of a life meaning, and how turning away from it gives the renewed opportunity to find meaning. Yet you don't even need to go there, just death itself is powerful enough. A person rarely is the same once they have become acquainted with death, no matter the nature of the encounter.
 
 
+
 # Fear haunts us all
 
 While talking to Jinx, Silco says these powerful words: "Fear haunts us all". While it's a leap for that specific instance, you could reuse that phrase for death.
@@ -55,6 +61,7 @@ While talking to Jinx, Silco says these powerful words: "Fear haunts us all". Wh
 Vander fears death because of what it means to those around him, as does Heimerdinger who is simply aware of it for others, rather than afraid. Silco may fear death because it's the only thing that could stop him, as is Viktor who sees it as always looming and holding him down, like his leg does; Vi fears the possible death of her sister; Jinx fears how she causes death and is haunted by it; Mel fears unnecessary deaths brought by conflict, as does Jayce after he had to face that himself.
 
 Yet, Silco uses death and rebirth as a way to liberate himself from fear. He has known and still knows the proximity of death, as he could get killed any day. He understands that, makes himself stronger and more determined thanks to it. He chooses his fate and his identity, and that's what he's trying to convey to Jinx.
+
 
 
 # Jinx and Vi
@@ -68,6 +75,7 @@ The parallel in Vi is, in my opinion, harder to delimit. While earlier to be vio
 If instead we considers life, it's likely people like Vander and Vi put a lot of value in it, because of their life experiences and the closeness of death. I touched in the suicide post on how that could have resulted in Jinx being both careful and reckless with her life. One point I'll add is how quickly Jayce and Viktor consider suicide, while Jinx, who has all the reasons to, almost comes to it in one extreme instance and after years of hardship.
 
 
+
 # Viktor and legacy
 
 Legacy is a topic we can evoke with a few characters: Vander, who is the one raising kids and trying to leave a better world behind; Silco, who fights for a dream he could very well never see in his life; Viktor, who worries about failing to achieve a worthwhile legacy; and Heimerdinger, who has the most impressive legacy yet appears also quite immobile instead of striving for better.
@@ -77,6 +85,7 @@ Viktor and Heimerdinger, are the one actually talking about legacy in the show. 
 It speaks of the complexity of Viktor's character and motives, when he managed to rise up from the undercity, learn and gain some status, yet he appears deeply unsatisfied. He has so far lived a good life, had opportunities beside focusing on work all the time, brought improvements to the undercity, became celebrated alongside Jayce, proved the value of anyone with a good mind and mentality beyond any preconception about origin or disability. More than anything, he lived. It's implied that the poison in the undercity, the labor and the unrest make it a quickly fatal environment, but in the end he had access to a decent enough standard of life. In the end, he still fears death, he despises the weakness of his body and his inability to accomplish always more. If he dies now, he wishes his legacy would be remarkable. He values legacy and living just another day, to work just another day, rather than enjoying his life to the fullest.
 
 It's the tragedy of ambition and greed: you always want more and rarely stop to enjoy what you have. The world and society push you to do more, be it from the cries of dying persons, from the awe and praise of crowds, or from the dreams of your parents. Sometimes it's from your own beating heart. Heimerdinger has a great line about that: "It's a sad truth that those who shine brightest often burn fastest".
+
 
 
 # The way to talk about death
@@ -98,6 +107,7 @@ In topside, deaths are rare and cause strong public reactions. The dead enforcer
 In topside, there are talks about death and war and destruction, yet most actual deaths are in the undercity, ignored. Death is omnipresent around Vander, Silco, Vi and Jinx, whereas it's a distant thing for Jayce, Heimerdinger and Mel. Jayce, who has a precedent with his mother almost dying, throws up at the sight of bodies on the bridge. He then loses all conviction after his first kill in a war he is starting, while Vi, who is acting tough, speaks of it as just another line on the butcher's bill.
 
 A "funny" one to end: Jinx's prank with what we expect to be Caitlyn's head. Everybody knows we are talking about death, yet we try to keep it under wraps. In reality, it's walking beside you, always.
+
 
 
 # Conclusion

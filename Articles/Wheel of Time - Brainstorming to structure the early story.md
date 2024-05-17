@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries English WheelOfTime
+# cspell:words Hamon
+
 Identifier: d42da6cb-73a2-4836-80c9-656a6c7e5fb6
 Title: Wheel of Time - Brainstorming to structure the early story
 Author: Benjamin Hamon
@@ -18,10 +21,11 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for the Wheel of Time, the show up to season 1 and all books.</p>
 
-
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. This time, I'm attempting to imagine and build a structure for the early part of the Wheel of Time, and to find the important ideas that should be introduced and developed to fill that structure. This is an exercise that will pertain to the Eye of the World and to the show's first season, but should be relevant for any fiction work with a sprawling imaginary universe. This is all subjective, interpretation and lengthy discussion that may go beyond the explicit scope of the source material. Enjoy reading and please share your thoughts afterward. Cheers.*
+
 
 
 # Foreword
@@ -33,15 +37,17 @@ As book readers, we are relatively omniscient about the story and the world from
 In this article, I will develop some general aspects of storytelling and specific items from the Wheel of Time. There are a bunch of raw listings, since going in depth for even a few of those would require writing a whole book. Such a discussion has a large scope, meaning some points may end up underdeveloped or forgotten, that is on me for not limiting myself more for the topic. In another post, I will look into how the Eye of the World and the show's first season go about their structure, and maybe do my own arrogant attempt at creating a script for a first season as a TV series. Keep in mind that we are not here to bash or praise a particular execution of the Wheel of Time, but to try to produce some draft fitting what is in our mind. Please share your thoughts and your answers.
 
 
+
 # Events
 
-If we strictly follow the story from the Eye of the World, events would be: the attack on Emond's Field, the long flight from the Two Rivers, staying in Baerlon, the night in Shadar Logoth, arriving in Whitebridge, the road to Caemlyn, finding Elyas then the Tuatha'an, being captured by the Whitecloaks then freed, Caemlyn, travelling the Ways, spending some time in Fal Dara, adventuring into the Blight and the stuff at the Eye of the World itself.
+If we strictly follow the story from the Eye of the World, events would be: the attack on Emond's Field, the long flight from the Two Rivers, staying in Baerlon, the night in Shadar Logoth, arriving in Whitebridge, the road to Caemlyn, finding Elyas then the Tuatha'an, being captured by the Whitecloaks then freed, Caemlyn, traveling the Ways, spending some time in Fal Dara, adventuring into the Blight and the stuff at the Eye of the World itself.
 
 There are other events which happen around the same time, or prior to the start of the adventure, and which are relevant: Lews Therin's death, the Breaking of the World, the fall of Manetheren, the Aiel War, the war in Ghealdan and the capture of Logain, Moiraine looking for the Dragon, Aes Sedai doing stuff in general. All these are hardly depicted directly in the books, beyond the EotW prologue and New Spring. At that point, it is up to us if we wish to remain evasive about those or if we want to include them and expand the scope of the story.
 
 I personally feels like the show demonstrates that you can shift things around a lot and change the sequences of events, but retain the core identity, the feels and the story beats. I would probably make massive changes to the events as they are depicted in the Eye of the World, maybe even over the first three books. But then I also love these books as they are and I have no real intention of rewriting them, so it is really a thought experiment.
 
 The major events that need to happen are Moiraine finding the ta'veren in Emond's Field, the attack on the village by the Trollocs, the flight, and then really any set of events as the heroes get separated and find themselves in a large and hostile world. As for the end, we need some revelation about Rand being the Dragon, and a manifest threat from the Forsaken and the Dark One, notably Ishamael messing with the heroes and probably some kind of attack by Shadowspawns. Many particular events, meetings and locations can occur later or earlier, be skipped or added: meeting the Aes Sedai, the Tuatha'an, the Whitecloaks, the Borderlanders, the Andor royal family, the Aiels; visiting Caemlyn, Tar Valon, the Borderlands; going through the Ways and the Blight.
+
 
 
 # Worldbuilding
@@ -55,6 +61,7 @@ Beyond describing the current world and its inhabitants, there is also history t
 Giving glimpses into the past can be done later, following examples of the Blood Snow and the flashback to the Age of Legends in the show, and I would just put that as a choice of storytelling rather than a requirement in one way or another. The books did stay rather evasive in giving lots of information and explicit details about past events, but without it having a particular impact that is often seen with dissimulating or manipulating history.
 
 
+
 # The Dragon
 
 While the Dragon is only one soul, and in the end only one hero among many, his role is at the forefront and the term will bring up many ideas: Lews Therin, the Breaking of the World, the prophecies, the Aes Sedai, the False Dragons, the Taint on Saidin, the madness of male channelers, the mystery of the Dragon's identity, Moiraine's search, Tam's story and finally of course Rand himself.
@@ -64,6 +71,7 @@ From rereading the Eye of the World, I confirmed memories that the idea of the D
 I am unsure of how much the mystery itself should be played up. They are many other stuff to fill the story, and being in the Dragon's mind, knowing its relation with the madness, is crucial in introducing the impending doom of the Last Battle. The Dragon will both save and destroy. At the same time, the stakes can be communicated without revealing the exact person, and it puts everyone under heavy pressure and a constant questioning of oneself: Egwene is eager to go on an adventure, Mat wants nothing do with responsibility, Nynaeve only wants to heal and protect, Perrin struggles with violence, Rand wants a normal life. All of them actually rise up to their challenges and demonstrate tremendous courage and intelligence, plus their share of twists of fate.
 
 While the Dragon is the main player, it would be a mistake to focus only on him. The book puts the issue in the background as the characters spend weeks on a mad dash. The show puts the issue in the background as we do not know who the Dragon is. Both reveal little actual information about it, and even that information is considered unreliable. There is probably quite a few ways to go about the Dragon: put it at the forefront with all its meaning to show the awe and the danger, then push it to the back to expand on the other characters; hide it as long as possible to play up the mystery and the intrigue, bringing up every character at the same time; reveal it quickly and focus on the events to up the pace; follow Rand directly like in EotW, to be more intimate and maddening.
+
 
 
 # Characters
@@ -77,6 +85,7 @@ It is not inconceivable to favor one or two characters, Rand or Moiraine perhaps
 There is again room for choice here. You could focus on Rand like EotW, you could build up the ensemble cast, you could focus on Aes Sedai. Furthermore, you can pick and choose which extra characters you bring in, where and in what order, like the show swapped the Andor royal family with the Amyrlin Seat. There is so much content for characters that it is both a deep reserve and a headache, by allowing endless possibilities but forcing you to cut something somewhere.
 
 
+
 # Magic
 
 The One Power is the main magic system in the Wheel of Time, and plays a major part in the story, as it gets handled regularly by many of the protagonists and antagonists. When introducing the One Power, we should talk about its laws, rules and theories. When developing it, we should talk about its users, effects, applications, produced items, concepts, institutions. That means a long list already, let's see: the One Power, the True Source, channeling, weaves, the five elements, linking, Saidar, how to channel it, Saidin, how to channel it, the Taint, burning out, stilling, gentling, shielding, the addiction, talents, Foretelling, angreals. And that were the things directly related to the One Power, you could add a number of items which are indirectly but closely related: the madness, the True Power, the steddings, the Ways, the White Tower, the Aes Sedai, the Breaking of the World, the Dragon and False Dragons.
@@ -84,6 +93,7 @@ The One Power is the main magic system in the Wheel of Time, and plays a major p
 Obviously, we have a long story to develop the One Power and everything related to it over time. Early on, we probably want to explain it succinctly, describing the channeling and weaves in general, mentioning the divide between Saidar and Saidin, showing off the Power and introducing the Aes Sedai. Perhaps we can wait before giving any kind of exposition, and just launch the fireworks, especially if we focus on Rand and him being completely lost and alone in regard to the One Power.
 
 At the same time, EotW does contain a number of events that may require some understanding of the One Power. Namely, the prologue, Egwene and Nynaeve and Rand starting to channel, Moiraine doing her stuff, Logain being shown as a False Dragon and gentled, the Ways, all the things at the Eye of the World.
+
 
 
 # Themes and philosophies
@@ -99,6 +109,7 @@ Here are some other major themes: arrogance, by thinking you are more important 
 When writing Wheel of Time, you should keep these themes in mind, at least whatever collection of them that feels right. Several are driven by the very nature of its universe, the Wheel and the Pattern, which are understood as matter of fact, rather than myths or a religion. For all intents and purposes, they are the same because your life cannot affect your next one in any meaningful way, but in the end it does not matter. We do what we do because we believe in something, whatever it is.
 
 
+
 # The bullet list
 
 And now the raw list of everything, restricting it to the early part of the story. With very short notes on the extent with which they were included in the first book and first season, and if I would want to include them myself. Obviously, this is just a big heap of stuff, so expect mistakes, and feel free to disagree. I grouped items with tiers and categories, based on an arbitrary appreciation of their importance, it has no meaning, it is only to make it easier to digest.
@@ -107,7 +118,7 @@ And now the raw list of everything, restricting it to the early part of the stor
 
 - Events: The attack on Emond's Field (book: major; show: medium; me: yes and major)
 - Events: Shadar Logoth, Mashadar, Mordeth, the dagger (book: medium; show: medium; me: yes and major)
-- Events: Rand, Mat and Thom travelling (book: major; show: medium; me: yes and medium)
+- Events: Rand, Mat and Thom traveling (book: major; show: medium; me: yes and medium)
 - Events: Mat being sick because of the dagger (book: major; show: major; me: maybe and medium)
 - Events: Mat being cured (book: minor; show: minor; me: maybe and minor)
 - Events: Perrin and Egwene with the Tuatha'an (book: medium; show: medium; me: maybe and minor)

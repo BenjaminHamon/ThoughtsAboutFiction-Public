@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries Arcane English
+# cspell:words Hamon
+
 Identifier: 113148e9-1079-4c3d-b677-0c19adfde2a4
 Title: Arcane - Storytelling
 Author: Benjamin Hamon
@@ -18,15 +21,17 @@ Description: |
 ---
 
 
+
 <p class="warning">Full spoilers for Arcane season 1.</p>
 
-
 I was trying to write about Arcane's pacing (perhaps a cursed word in commentary), but it ended up going all over the place, being more about storytelling in general and feeling simply wrong to an extent. So instead, I thought I would list the points I had in a less formal way. Hopefully, I can get people's feelings about those and spark a discussion or two.
+
 
 
 # The initial feeling
 
 In short, my point would be that Arcane has a good and frantic pacing, which it uses alongside the setting and storytelling tools to make itself better, beyond its recognizable qualities in visuals, music, writing and acting.
+
 
 
 # About the pacing itself
@@ -38,9 +43,11 @@ In short, my point would be that Arcane has a good and frantic pacing, which it 
 - There is pretty much no padding. Almost every line and scene is important and has purpose.
 
 
+
 # About the setting, which is helped by the pacing
 
 - Arcane makes use of its setting which is a jumble of the many things that spawned with the LoL champion design (basically rule of cool). That's a pain to build a coherent identity and to avoid absurdities, but it's a fertile ground for creativity and extravagance. You have crazy things all around but you don't need much explanation. As Jinx nicely put it: "It's all these runes. They form some kind of math-y, magic-y gateway. To the realm of heebie-jeebies.". As long as the story flows and that there is enough to stay invested and immersed, the whole thing stays believable and enjoyable.
+
 
 
 # About cool stuff the show does with storytelling
@@ -52,6 +59,7 @@ In short, my point would be that Arcane has a good and frantic pacing, which it 
 - Transitions (is artistic transition a cliché now? I don't know) and music integration. Everybody will mention Ekko vs Jinx. I enjoy Enemy in episode 5 a lot, with the quick and consecutive switches between Vi, Sevika, Marcus, Mel, Viktor and Jayce, then back to Vi.
 
 
+
 # About the issues raised by the pacing
 
 - The scenes from the Enemy clip are critical to showing who Vi, Powder and Ekko were as kids. Their equivalent is simply not in the show. Notably kid Powder and Ekko pretty much don't interact at all.
@@ -60,6 +68,7 @@ In short, my point would be that Arcane has a good and frantic pacing, which it 
 - Vi and Caitlyn grow trusting and close very quickly, when they are set up to hate each other. Both of them are understanding and have empathy, but they also have deep rooted preconceptions. I'm 100% shipping but I always prefer slow burn romance to mystical love at first sight.
 - Vi abandons working with Piltover and pushes away Caitlyn after only failing to convince the council in one quick meeting. When her sister's life and war are in the balance, I would expect her to try every option. However, Vi is about expedient solutions so it makes sense for her to go directly on the attack. Yet, why would she reject Caitlyn in that case?
 - Jayce is flip-flopping in his decisions. That's definitely a thing in real life so not really a negative in my opinion, but with the quick pacing it almost gets jarring.
+
 
 
 # Some other remarks

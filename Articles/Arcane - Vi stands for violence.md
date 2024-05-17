@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries Arcane English
+# cspell:words Hamon
+
 Identifier: 3e0135e4-7bc1-4fb1-9f72-fe61d4243ece
 Title: Arcane - Vi stands for violence
 Author: Benjamin Hamon
@@ -19,12 +22,13 @@ Description: |
 ---
 
 
-<p class="warning">Full spoilers for Arcane season 1.</p>
 
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 *Hello, everyone. You stumbled upon one of my wordy texts, thoughts I put down instead of letting them run around endlessly in my head. Everything here is subjective, interpretation and lengthy discussion that may go beyond the explicit scope of the source material. Enjoy reading and please share your thoughts afterward. Cheers.*
 
 *Today's topic is Vi's character in Arcane, particularly in regard to violence.*
+
 
 
 # Foreword
@@ -32,6 +36,7 @@ Description: |
 It's been a while since I wrote about Arcane, but there is still much to talk about. I already wrote at length about Jinx, and consequently evoked Vi several times, without going too deep in describing her. I really want to focus on Vi as her own character beside Jinx, another traumatized kid and a violent adult, the result to a cruel world and a mess of circumstances. I will look mostly into her dealing with and dispensing violence, which is a major aspect to Vi as a character, perhaps even overwhelmingly so, as well as how her violence affects those around her.
 
 There are other themes and notions in Arcane that are very relevant with Vi: family, trust, choice, consequences, among others. Beyond what is here, I invite you to look at my older article about [Powder and Jinx](/article/Arcane_-_Powder_and_Jinx), which notably talks about how Vi was of major importance to Powder, and what their sister bond meant.
+
 
 
 # Strength
@@ -45,6 +50,7 @@ Vi's role model, and her known parental figure for the recent years, has been Va
 During the time skip, Vi's main change is to have grown tremendously in physical strength, apparently through punching her cellmates and the walls into dust.
 
 There is an important distinction to make here, and you may have noticed I am trying to insist more on strength than on violence. Because strength, but violence too in truth, can be used to defend or to assault. And Vi does both. She has a lot of resentment toward the enforcers and topside, and wants to fight them, to get vengeance for her parents and to get freedom for the undercity. She also wants to become strong to lead and to protect her family and friends, most of all Powder.
+
 
 
 # Looking for a fight
@@ -62,6 +68,7 @@ As soon as Vi is out of prison, she rushes into more fights, stumbling upon Sevi
 Later, when arguing with the council, Vi exhorts them to fight Silco rather than negotiate with him. Turned down, she finds Jayce and convinces him to act by himself, leading them both into a fight which Jayce quickly regrets. Yet, even with a dead kid on the ground, Vi simply calls it one of many and wants more fighting, until Jayce chooses to back down himself and leaves Vi to stand by herself. At which point, she again goes to fight Sevika, and wants to go end Silco, just as she gets captured by Jinx.
 
 
+
 # Hot temper
 
 Beyond an appetite for brawling, and although she is first very confident in herself, Vi simply has quite the hot temper. She is prone to getting angry, furious even, and does not back down easily. Her personality and fits of rage are easily understandable given the life she had and the circumstances she faces. Yet, it creates her more problems than it solves, and is twice mentioned by Vander as an issue, first to Benzo, then to Vi herself.
@@ -71,6 +78,7 @@ Vi lashes out repeatedly over the series, at Deckard, at Vander, at Mylo, at Pow
 Vi's temper and determination drive her to become stronger, but also hold her back. It is her anger which makes her draw up stupid and simplistic plans, and to execute them, not any lack of intelligence. It is her lack of help and support which drives her to violence, just like it does for Jinx. And for the both of them, it is anger and trauma which make this violence appear as necessary and unavoidable. This even gets as far as poisoning their relationship as sisters, first with Vi hitting Powder, then later with Jinx capturing and restraining Vi. Backed into a corner, Vi becomes verbally violent with Jinx and, unknowingly, pushes her further from sanity rather than helping her.
 
 Temper might even be a particularity of Vi, strangely. Most prominent characters are just as violent as her but usually more in control, even when Vi is the model for self-confidence and fighting skill. Silco is coldly calculating, Vander is wary. Powder starts as an innocent child, incapable of dealing with violence, and, later, Jinx acts from fear and trauma, more than from anger or resentment. Jayce follows an unrefined sense of duty and what little he understands of the larger game. Ekko fights with the simple desire for the survival of his people and the wish to end this tragedy once and for all. Everyone gets angry, everyone gets violent, but Vi lets herself be defined by it way more than the others. She does not carefully analyses a situation, she looks for an enemy to punch at. Presumably, she would have been like that since the very first scene, on the bridge, as she looks back at the enforcers with eyes filled by fury.
+
 
 
 # Caitlyn's guidance
@@ -88,6 +96,7 @@ When two persons meet with radically different backgrounds and views about the w
 Vi is quite set in her ways at this point. It is uncertain how much time will be needed for her to change herself, and to change those around her, if she even can or wants to. Especially as she has dragged Caitlyn into her own problems and unknowingly participated in creating another tragic character as Caitlyn's mother is very likely to die at the hand of Vi's sister.
 
 
+
 # Vi's influence
 
 Vi affects people around her more than she realizes, and in ways she does not really understand. While Vi is only a teenager, then a young adult, she acts as a leader for her family. She trains them, protects them, brings them on missions. Vi is still building herself in these years, still figuring out what she wants to be and to do. Yet, she has had to grow fast and to assume responsibility very early, putting herself in a difficult situation for which she does not even realize she is not ready.
@@ -97,6 +106,7 @@ Vi's first course of action is violence, Vi's main characteristic is strength. S
 Vi may consider her focus on strength and her unrestrained usage of violence to be her own problem, something she will taint only herself with and will rid herself of whenever the conflict truly ends. She probably could. Powder and Ekko could not. Young kids looking up to a formidable hero, who relies first and only on violence for resolving issues. Kids who live in a cruel world and get thrown into a tragedy they do not even understand. They grow centered around that all powerful notion of violence and fighting. How could Jinx ever abandon violence when the whole world stands against her? How could Ekko ever consider peace when he has been chased and oppressed his whole life?
 
 Strength and violence are attributes Vi takes for herself, with even a bit of pride. She does not recoil from it or fear it in herself. It is her own burden. That is why, once Vi sees Jinx revel in violence, she gets a little frightened for once, and may be starting to understand the deeper web of consequences to her behavior, her place in the never-ending circle of hatred and violence.
+
 
 
 # Restrained
@@ -110,6 +120,7 @@ Most explicitly, Vi spends years in prison, restless and unable to do anything b
 Finally, the most agonizing part is the tea party scene, when Vi is restrained by Jinx and is powerless in affecting the situation. The scene echoes earlier moments with Jinx, their reunion and the bridge fight with Ekko, where Vi yearns to simply be with Powder but is denied by more violence and herself being more and more powerless. At Jinx's show, Vi must use words to convince her sister, to prove herself worthy of trust. Vi has difficulty finding the right words and looks with horror at what her sister has become and is now doing. Cornered, Vi must yell at Jinx to pull herself together, using verbal violence in the end and pushing Jinx into another tragedy.
 
 Among the many characters in Arcane, Vi may be among the ones with the most confidence, the most inner strength, the most ability to act, in a way free of responsibilities and uncaring of consequences. Yet, she is also a prisoner, knowing nothing except violence, yearning for nothing except vengeance. Vi as a person is far from being only about violence, nor could we even exactly define her with it, but it encroaches on her and on her every single action so much that it feels more like a curse than a power.
+
 
 
 # Afterword

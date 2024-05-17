@@ -1,5 +1,8 @@
 ---
 
+# cspell:dictionaries Arcane English
+# cspell:words Hamon
+
 Identifier: db8d8a91-7ede-45ed-9637-ce5f7972c92c
 Title: Arcane - The Portrayal of Suicide
 Author: Benjamin Hamon
@@ -18,12 +21,13 @@ Description: |
 ---
 
 
-<p class="warning">Full spoilers for Arcane season 1.</p>
 
+<p class="warning">Full spoilers for Arcane season 1.</p>
 
 *Hello, everyone. You stumbled upon one of my wordy texts, resulting from my brain's unstoppable need to delve into stuff. This time, back to really in-depth posts as we will be exploring the idea of suicide and how it is portrayed in Arcane. It's obviously a tough subject, but I believe it must be talked about and understood. So here goes. Enjoy reading and please share your thoughts afterward. Cheers.*
 
 *If you arrived here and are feeling suicidal, please do consider looking for support and talking about it, with a family member, a friend, a hotline, a doctor, a stranger, whoever you can open up to. It's hard, it's different for everyone, the problems are probably not going to go away easily, but there will be people who care for you, resources to help you, meanings and joys for you to find. I do not know you and have to right to give you advice, I only want you to take care of yourself and believe in your own life.*
+
 
 
 # Introduction
@@ -35,6 +39,7 @@ Some of the discussion here will lean into the topics of death and sacrifice, bu
 In season 1, there are, I believe, two very obvious occurrences of suicide attempts, with Jayce and Viktor, and then two others, less explicit, with Viktor and Jinx. And beyond that there's Marcus consideration of martyrdom, and Jinx's mental health. The dark and tragic tone of Arcane, the simple presence of suicide, the big display of trauma and mental health issues, these things make me believe it's worth it to delve into the subject. Maybe there is more here than pieces in a story, and maybe the writers are introducing this possibility to use it later in a more central place.
 
 
+
 # Jayce
 
 In episode 2, Jayce is seconds away from jumping from his apartment, when luckily Viktor interrupts him. Before that, we saw Jayce's interest in magic and science, how he believed he was creating something extraordinary and wonderful, then how his discovery blew up a building, how it got him tried and expelled, how Heimerdinger, the Council, the academy, his patrons and his own family turned him away. Put simply, Jayce had a bright future and a life dream, he suddenly lost both, as well as all his support. While it is shown quickly and without much details or breathing space, Jayce's state of mind is at least understandable and his sudden despair sufficient to push him to consider the suicide solution.
@@ -42,6 +47,7 @@ In episode 2, Jayce is seconds away from jumping from his apartment, when luckil
 As an event in the show, this Jayce scene is particular. I consider episode 1 and 2 to be light of tone, at least way lighter than what comes after. There is a underlying current of uneasiness but overall it's a standard depiction of a run-of-the-mill tale. The two scenes that strike hard against the light tone are the bridge scene at the very start and this Jayce scene. They prelude the turn of episode 3 and the rest of the show into a darker atmosphere.
 
 The scene itself is simple rather than dramatic. The things you take away the first time are: would Jayce even die from that fall, and how funny Viktor behaves. This portrayal, as well as its twin with Viktor later, puts suicide on the table, but does not highlight it. That's where we ask ourselves: did they reduce a suicide attempt as just another event in the story? did they use that just to give emotional attachment to Jayce? But then, did they do it like that on purpose? Either to introduce the notion and dark tone, or to portray suicidal thoughts as a thing of life? Was the scene purposeful for the plot, or for the themes?
+
 
 
 # Viktor
@@ -53,6 +59,7 @@ Where Jayce's suicide attempt was an introduction, a prologue to the Hextech adv
 Just like with Jayce, the scene does not dwell on Viktor trying to kill himself, it's inserted between the funeral for Sky and the important talk between Jayce and Viktor. As for the tone, this time it's very much in line with all that is happening around it. Everything is going wrong, everyone is living a tragedy. Yet it also contrasts with Jinx's tea party, as it's a reconciliation between Jayce and Viktor and a new start for something positive, rather than more death, more trauma, more family tearing itself apart, and more massive mistakes.
 
 If I wondered about the portrayal of Jayce's suicide attempt being lackluster, or dismissive of the topic's seriousness, well Viktor's is instead quite poetic and strong. What's interesting is that the scenes are basically the same. Each starts with great desperation, a quickly decided attempt and just as quick a resolution, before a serene conversation. Viktor's scene makes Jayce's one more meaningful, indirectly and long after the fact, but still.
+
 
 
 # Viktor with the grenade
@@ -70,9 +77,11 @@ There are several elements that can push the likelihood of the suicide theory. F
 All of this hints at Viktor being a distraught genius who wants something good to be remembered for before he finally collapses. With little time available and a grenade in his hand, he could be the one that prevented Hextech from being used for weapons, and from being used for wrong in general, by taking himself and Jayce out. Obviously, there is little chance this accomplishes much, so Viktor does not go through with this, but he might well have considered it for a second. Viktor utters powerful words at this moment: "There is always a choice". He knows the importance of decisions, of freewill and of doing what is right. This further increases the meaning of his actual suicide attempt later, in the depth of his desperation as well as in the value of recognizing mistakes and reconciling with Jayce.
 
 
+
 # Marcus with the grenade
 
 A small detour to visit Marcus, who, in episode 5, thinks about blowing himself up with Silco. Just like Jayce and Viktor attempts are mirrored, this scene provides a eerily similar situation as the one with Viktor. Marcus and Silco are two powerful persons who should act responsibly and are currently arguing. Marcus is trying to be better than he was before, while Silco is going too far, according to the sheriff. And what is Marcus manipulating? Another grenade from Jinx. We even see Marcus setting off the grenade, to our disbelief, and also as a trick, because he actually does not do it. But the possibility is there, very real.
+
 
 
 # Jinx with the grenade
@@ -92,6 +101,7 @@ I also need to go back to my earlier point about how Arcane portrays suicide. In
 *(There is so much in this scene. Every frame needs to be studied, seriously. Ekko only hurts himself by fighting Jinx. Vi feels like she is abandoning her sister again and again even when she needs only seconds before coming back. Ekko tries to take Jinx's power away by taking away the gemstone and her gun, rather than killing her. Powder appears in many ways, between the spyglass Jinx is using, the song she is humming, the flashback with Ekko, even the look of her hair when Ekko is beating her up.)*
 
 
+
 # Imagery around Jinx
 
 Beyond the bridge scene, there are several moments that could been interpreted as symbolic or evocative of Jinx's suicidal thoughts. There's some reaching in there but still.
@@ -103,6 +113,7 @@ In episode 5, as Jinx goes to the old building with the boxing machine, she shoo
 In episode 6, as Jinx is about to light her flare, she walks up to a ledge with broken railing, looking down below, away from the stars, toward death. The way the scene happens implies she is also hearing Vi's voice far below, as if pulling her down. When the sisters reunite, Jinx tells Vi that Powder fell down a well, which also references Silco trying to persuade her to let Powder die earlier. This translates to Powder killing herself. Jinx and Powder are the same person, if there is any need to point that out.
 
 *Another one that's probably just me: I remember Jinx taking a longing look at her pistol at one point, when she is alone, however I can't find a matching scene. So I may have dreamed it, which is not unlikely because I experienced that kind of dream when I watched Arcane the first time. That gives you an idea about how sick and obsessed my mind is.*
+
 
 
 # Jinx?
@@ -122,6 +133,7 @@ We also have to talk about where Jinx actually stands on the idea of suicide in 
 Jinx struggles in her mind about her own worth, her guilt and her jinxing fate. If we played the horrible game of naming scapegoats and jinxes, she is responsible for her family dying, twice, maybe three times. And relevant to our discussion, she may actually be to blame for the suicide attempts in Arcane: Jayce's one is directly caused by the explosion she caused, Marcus' one follows her aggressive actions, as does Viktor's first one in a way. There's even ways to make Viktor's second one her fault too, in part, since her actions helped begin the sequence of events where Viktor was left experimenting alone. Some of these claims would be very harsh or even ludicrous to uphold, but Jinx may well torture herself with this kind of thoughts. The point is, Jinx blames herself and is blamed for so much, to the point of taking on the identity of Jinx over Powder, that she believes all of this and has to shoulder the pain and guilt, until she absolutely cannot anymore and has to end it.
 
 When season 1 finishes, the character has completed her transformation from Powder into Jinx, and she leaves, utterly alone. What even is going to happen to her? What is she going to do next?
+
 
 
 # Conclusion
