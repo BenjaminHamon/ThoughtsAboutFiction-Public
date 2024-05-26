@@ -41,19 +41,19 @@ There is one dialogue in Life Is Strange that made me consider the player experi
 
 > **Life Is Strange Episode 5**
 >
-> Nightmare Max: "Thought you could control everybody and everything, huh? Twist time around your fingers?"
+> Alternate Max: "Oh, so you want help? Thought you could control everybody and everything, huh? Twist time around your fingers?"
 >
 > Max (choice: Wasn't my choice... / I tried to help...): "I tried to help... I only wanted to do the right thing."
 >
-> Nightmare Max: "No, you only wanted to be popular. And once you got these amazing powers, your big plan was to trick people into thinking you give a rat's ass."
+> Alternate Max: "No, you only wanted to be popular. And once you got these amazing powers, your big plan was to trick people into thinking you give a rat's ass."
 >
 > Max (choice: I do care. / That's true.): "I do care! That's why I was trying to make friends..."
 >
-> Nightmare Max: "By telling people what they want to hear? You were just looking for a shortcut, because you can't make friends on your own."
+> Alternate Max: "By telling people what they want to hear? You were just looking for a shortcut, because you can't make friends on your own."
 >
 > Max: "That's not true. I have great friends. And I've used my powers for good."
 >
-> Nightmare Max: "Please, stop playing innocent. You're a goddamn hypocrite. You've left a trail of death and suffering behind you."
+> Alternate Max: "Please, stop playing innocent. You're a goddamn hypocrite. You've left a trail of death and suffering behind you."
 
 There are probably many ways to interpret and dissect such a dialogue. The sentence that caught my attention is "You only wanted to be popular." Because what nightmare Max says is kind of true: Max did a lot of things to get people to like her, and used her power both to save people and to make friends.
 
