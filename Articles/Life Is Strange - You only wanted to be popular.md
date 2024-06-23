@@ -21,7 +21,7 @@ Description: |
 
 
 
-<p class="warning">Spoilers for the original Life Is Strange game.</p>
+<p class="warning">Spoilers for the original <span>Life Is Strange</span> game.</p>
 
 
 
